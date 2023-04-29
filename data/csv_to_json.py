@@ -34,7 +34,7 @@ def main():
             "address_2": data["Address 2"],
             "city": data["City"],
             "state": data["State"],
-            "zip": data["Zip"],
+            "zip": data["Zip"][:5],
             "country": data["Country"],
             "location": convert_geocoded_location(data["Geocoded Location"]),
         }

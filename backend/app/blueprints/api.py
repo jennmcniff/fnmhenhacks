@@ -16,7 +16,6 @@ def search(name: str):
     The name is used to fuzzy search against "trade_name".
     `zip` is used a filter.
     """
-
     businesses = process.extract(
         name, {b: b.trade_name for b in BUISINESSES}, limit=None, score_cutoff=70
     )

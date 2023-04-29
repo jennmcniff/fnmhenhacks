@@ -40,5 +40,4 @@ async def serve_file(filename: str) -> Response:
 
 @app.route("/public/<path:filename>")
 async def route(filename: str) -> Response:
-    print(filename)
     return await serve_file(filename)

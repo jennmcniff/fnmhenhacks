@@ -1,6 +1,7 @@
 from quart import Quart
 from app import blueprints
 from app.blueprints.files import serve_file
+from app.errors import ApiError
 
 app = Quart(__name__)
 blueprints.load_blueprints(app)
@@ -10,5 +11,9 @@ blueprints.load_blueprints(app)
 async def hello():
     return await serve_file("index.html")
 
+
+@app.errorhandler(ApiError)
+async def error(err: ApiError):
+    return err.to_response()
 
 app.run(port=3000)

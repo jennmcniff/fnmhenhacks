@@ -38,7 +38,10 @@ def main():
             "location": convert_geocoded_location(data["Geocoded Location"]),
         }
 
-    json.dump(list(map(convert, reader)), open("delaware_buisiness.json", "w"))
+    json.dump(
+        list(map(convert, reader)), open("delaware_buisiness.json", "w"),
+        indent=4
+    )
 
 
 if __name__ == "__main__":

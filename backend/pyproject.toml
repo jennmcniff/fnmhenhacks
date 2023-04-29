@@ -9,11 +9,15 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 quart = "^0.18.4"
+rapidfuzz = "^3.0.0"
 
 [tool.poetry.group.dev.dependencies]
 pyright = "^1.1.305"
 ruff = "^0.0.263"
 black = "^23.3.0"
+
+[tool.ruff]
+line-length = 88
 
 [build-system]
 requires = ["poetry-core"]

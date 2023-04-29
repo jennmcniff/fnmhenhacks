@@ -1,4 +1,4 @@
-from quart import Quart
+from quart import Quart, Response
 from app import blueprints
 from app.blueprints.files import serve_file
 from app.errors import ApiError
@@ -13,7 +13,7 @@ async def hello():
 
 
 @app.errorhandler(ApiError)
-async def error(err: ApiError):
+async def error(err: ApiError) -> Response:
     return err.to_response()
 
 app.run(port=3000)

@@ -10,7 +10,7 @@ import csv
 import json
 
 
-def convert_geocoded_location(loc: str) -> dict[str, str]:
+def convert_geocoded_location(loc: str) -> dict[str, t.Any]:
     if not loc:
         return {}
 

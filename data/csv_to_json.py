@@ -1,5 +1,6 @@
 """
-This file parses the Delaware_Business_Licenses.csv file to delaware_buisiness.json
+This file parses the Delaware_Business_Licenses.csv file to
+delaware_buisiness.json
 """
 
 from __future__ import annotations

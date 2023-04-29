@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "backend"
+version = "0.1.0"
+description = "The backend for the project"
+authors = ["Lunarmagpie <bambolambo0@gmail.com>"]
+license = "MPL"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+quart = "^0.18.4"
+
+[tool.poetry.group.dev.dependencies]
+pyright = "^1.1.305"
+ruff = "^0.0.263"
+black = "^23.3.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

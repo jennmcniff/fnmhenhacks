@@ -41,3 +41,8 @@ async def serve_file(filename: str) -> Response:
 @app.route("/public/<path:filename>")
 async def route(filename: str) -> Response:
     return await serve_file(filename)
+
+
+@app.route("/static/<path:filename>")
+async def static(filename: str) -> Response:
+    return await serve_file("static/" + filename)

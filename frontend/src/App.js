@@ -1,17 +1,11 @@
-import Home from "../src/Pages/Home/Home"
-import Button from '@mui/material/Button';
+import Home from "./Pages/Home/Home"
 
 function App() {
   return (
-      <div className="App">
-        <header className="App-header">
-        </header>
-        <div>
-          <Home />
-          <Button > This is button </Button>
-      </div>
+    <div className="App">
+      <Home />
     </div>
-    );
+  );
 }
 
 export default App;

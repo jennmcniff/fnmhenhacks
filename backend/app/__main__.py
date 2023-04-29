@@ -7,8 +7,13 @@ app = Quart(__name__, static_folder="../frontend/build")
 blueprints.load_blueprints(app)
 
 
+@app.route()
+async def index():
+    return await serve_file("index.html")
+
+
 @app.route("/<path:path>")
-async def hello(path: str):
+async def anything(path: str):
     return await serve_file("index.html")
 
 

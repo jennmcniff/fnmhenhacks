@@ -5,7 +5,26 @@ const View = () => {
   const { query, _ } = useContext(QueryContext);
   const [data, setData] = useState({});
 
-  useEffect(() => {}, [query]);
+  const getData = async (query) => {
+    const response = await fetch(
+      "/api/search?" +
+        new URLSearchParams({
+          name: query.name,
+          zipcode: query.zipcode,
+        })
+    );
+    const jsonData = await response.json();
+
+    console.log(jsonData);
+  };
+
+  useEffect(() => {
+    getData(query);
+  }, [query]);
+
+  useEffect(() => {
+    getData(query);
+  }, []);
 
   useEffect(() => {}, [data]);
 

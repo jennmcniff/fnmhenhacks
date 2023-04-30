@@ -28,12 +28,11 @@ const View = () => {
       "/api/search?" +
         new URLSearchParams({
           name: query.name,
-          zipcode: query.zipcode,
+          zip: query.zipcode,
         })
-    );
-    const jsonData = await response.json();
+    ).then((response) => response.json());
 
-    return jsonData;
+    return response;
   };
 
   useEffect(() => {
@@ -46,7 +45,7 @@ const View = () => {
   }, []);
 
   useEffect(() => {
-    console.log("hello world");
+    console.log(data);
   }, [data]);
 
   return (

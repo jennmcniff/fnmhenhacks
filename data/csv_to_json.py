@@ -40,7 +40,7 @@ def main():
         }
 
     json.dump(
-        list(map(convert, reader)), open("delaware_buisiness.json", "w"),
+        list(map(convert, reader)), open("delaware_business.json", "w"),
         indent=4
     )
 

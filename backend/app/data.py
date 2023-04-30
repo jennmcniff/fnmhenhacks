@@ -13,7 +13,7 @@ import typing as t
 class Business:
     buisiness_name: str
     trade_name: str
-    buisiness_activity: str
+    business_activity: str
     address_1: str
     address_2: str
     city: str
@@ -35,7 +35,7 @@ class Location:
 def load_data() -> list[Business]:
     out = []
 
-    with open("../data/delaware_buisiness.json") as f:
+    with open("../data/delaware_business.json") as f:
         objs = json.load(f)
 
         for buisiness in objs:

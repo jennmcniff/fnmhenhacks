@@ -51,7 +51,7 @@ const View = () => {
 
       const jsonData = await response.json();
 
-      setData(jsonData);
+      setData(shuffle(jsonData).splice(0, 20));
     };
 
     jData();

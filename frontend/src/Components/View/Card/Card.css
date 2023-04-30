@@ -1,11 +1,11 @@
-.card {
-  box-shadow: 0px 0px 5px rgba(0, 127, 255, 0.2);
-  margin: 1%;
+.card p {
+  margin: 0%;
 }
 
-p.card {
-  margin: 0%;
-  margin-left: 5%;
+.card {
+  margin: 1%;
+  padding: 0%;
+  box-shadow: 0px 0px 5px rgba(0, 127, 255, 0.2);
   font-weight: 400;
   text-align: center;
   opacity: 70%;
@@ -16,15 +16,17 @@ p.card {
   color: #007fff;
   font-weight: 600;
   margin: 0%;
+  padding: 0%;
 }
 
 .detailsb {
-  padding: 10%;
+  /* margin-left: 5%; */
+  padding: 1%;
   background-color: #80bde4;
   border-style: solid;
   border-width: 0.03cm;
   border-color: #00003a;
-  border-radius: 5%;
+  border-radius: 0.2cm;
   transition-duration: 100ms;
 }
 

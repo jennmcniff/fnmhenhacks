@@ -53,13 +53,13 @@ const AppCard = (props) => {
                 }
               </Geographies>
               <Marker coordinates={[location.longitude, location.latitude]}>
-                <circle r={3} fill="#FF5533" />
+                <circle r={2} fill="#FF5533" />
               </Marker>
             </ZoomableGroup>
           </ComposableMap>
         </Col>
         <Col span={20}>
-          <Row gutter={10} justify="space-around" align="middle">
+          <Row gutter={10} justify="space-evenly" align="middle">
             <Col span={9}>
               <p className="emp"> Main Address </p>
               <p>{toTitleCase(address_1)}</p>
@@ -69,16 +69,14 @@ const AppCard = (props) => {
               <p className="emp"> Services </p>
               <p>{toTitleCase(business_activity)}</p>
             </Col>
-            <Col span={6}>
-              <p className="detailsb">
-                <a href="/" className="details">
-                  View Details
-                </a>
-              </p>
-            </Col>
           </Row>
         </Col>
       </Row>
+      <div className="detailsb">
+        <a href="/" className="details">
+          View Details
+        </a>
+      </div>
     </Card>
   );
 };

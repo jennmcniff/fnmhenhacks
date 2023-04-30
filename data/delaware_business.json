@@ -1,0 +1,2426 @@
+[
+    {
+        "business_name": "RIVIERA FINANCE LLC",
+        "trade_name": "RIVIERA FINANCE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "ROSEWOOD 28 DEER CIRCLE",
+        "address_2": "",
+        "city": "BEAR",
+        "state": "DE",
+        "zip": "19701",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.62742,
+            "longitude": -75.6609
+        }
+    },
+    {
+        "business_name": "NCAS OF DELAWARE LLC",
+        "trade_name": "ADVANCE AMERICA 5421",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1659 PULASKI HWY # 14",
+        "address_2": "",
+        "city": "BEAR",
+        "state": "DE",
+        "zip": "19701",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.62038,
+            "longitude": -75.69348
+        }
+    },
+    {
+        "business_name": "NATIONAL FINANCIAL",
+        "trade_name": "LOAN TILL PAYDAY",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1719 PULASKI HWY",
+        "address_2": "",
+        "city": "BEAR",
+        "state": "DE",
+        "zip": "19701",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.61675,
+            "longitude": -75.69839
+        }
+    },
+    {
+        "business_name": "MARINER FINANCE LLC",
+        "trade_name": "MARINER FINANCE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1831 PULASKI HWY",
+        "address_2": "",
+        "city": "BEAR",
+        "state": "DE",
+        "zip": "19701",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.61059,
+            "longitude": -75.70625
+        }
+    },
+    {
+        "business_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "trade_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "24 FOXHUNT DR",
+        "address_2": "",
+        "city": "BEAR",
+        "state": "DE",
+        "zip": "19701",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.60763,
+            "longitude": -75.71294
+        }
+    },
+    {
+        "business_name": "TYNE SUNDERLAND, LLC",
+        "trade_name": "LIBERTY TAX & LOANS",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "413 EDEN CIR",
+        "address_2": "",
+        "city": "BEAR",
+        "state": "DE",
+        "zip": "19701",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.63245,
+            "longitude": -75.65466
+        }
+    },
+    {
+        "business_name": "SCALESSA-FISCHER LLC",
+        "trade_name": "SCALESSA-FISCHER LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "772 PULASKI HWY",
+        "address_2": "CAPITOL TITLE LOANS",
+        "city": "BEAR",
+        "state": "DE",
+        "zip": "19701",
+        "country": "UNITED STATES",
+        "location": {}
+    },
+    {
+        "business_name": "DELAWARE TITLE LOANS INC",
+        "trade_name": "DELAWARE TITLE LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "2431 PULASKI HWY",
+        "address_2": "",
+        "city": "NEWARK",
+        "state": "DE",
+        "zip": "19702",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.60548,
+            "longitude": -75.74763
+        }
+    },
+    {
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
+        "trade_name": "MINUTE LOAN CENTER",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "2693 PULASKI HWY",
+        "address_2": "",
+        "city": "NEWARK",
+        "state": "DE",
+        "zip": "19702",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.60377,
+            "longitude": -75.75719
+        }
+    },
+    {
+        "business_name": "JIGAR PATEL INC",
+        "trade_name": "JIGAR PATEL INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "52 SAVOY RD",
+        "address_2": "",
+        "city": "NEWARK",
+        "state": "DE",
+        "zip": "19702",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.65888,
+            "longitude": -75.68699
+        }
+    },
+    {
+        "business_name": "ALTER DOMUS INC",
+        "trade_name": "ALTER DOMUS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "619 NEW YORK AVE",
+        "address_2": "",
+        "city": "CLAYMONT",
+        "state": "DE",
+        "zip": "19703",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.80025,
+            "longitude": -75.47288
+        }
+    },
+    {
+        "business_name": "SOCIAL FINANCE INC",
+        "trade_name": "SOFI",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "650 NAAMANS RD STE 300",
+        "address_2": "",
+        "city": "CLAYMONT",
+        "state": "DE",
+        "zip": "19703",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.81562,
+            "longitude": -75.45822
+        }
+    },
+    {
+        "business_name": "NATIONAL FINANCIAL",
+        "trade_name": "LOAN TILL PAYDAY",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "2604 PHILADELPHIA PIKE STE 200",
+        "address_2": "",
+        "city": "CLAYMONT",
+        "state": "DE",
+        "zip": "19703",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.7939,
+            "longitude": -75.46803
+        }
+    },
+    {
+        "business_name": "HRB TAX GROUP INC",
+        "trade_name": "H&R BLOCK",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "2616 PHILADELPHIA PIKE STE A",
+        "address_2": "",
+        "city": "CLAYMONT",
+        "state": "DE",
+        "zip": "19703",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.79346,
+            "longitude": -75.46785
+        }
+    },
+    {
+        "business_name": "NCAS OF DELAWARE LLC",
+        "trade_name": "ADVANCE AMERICA 4674",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "2720 PHILADELPHIA PIKE",
+        "address_2": "",
+        "city": "CLAYMONT",
+        "state": "DE",
+        "zip": "19703",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.79474,
+            "longitude": -75.4671
+        }
+    },
+    {
+        "business_name": "EASYDOLLAR LOANS, LLC",
+        "trade_name": "NORTHEASTERN TITLE LOANS",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "103 NAAMANS RD",
+        "address_2": "",
+        "city": "CLAYMONT",
+        "state": "DE",
+        "zip": "19703",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.81196,
+            "longitude": -75.44415
+        }
+    },
+    {
+        "business_name": "DELAWARE TITLE LOANS INC",
+        "trade_name": "DELAWARE TITLE LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "115 NAAMANS RD",
+        "address_2": "",
+        "city": "CLAYMONT",
+        "state": "DE",
+        "zip": "19703",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.81196,
+            "longitude": -75.44415
+        }
+    },
+    {
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
+        "trade_name": "MINUTE LOAN CENTER",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "3603A PHILADELPHIA PIKE",
+        "address_2": "",
+        "city": "CLAYMONT",
+        "state": "DE",
+        "zip": "19703",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.80441,
+            "longitude": -75.45459
+        }
+    },
+    {
+        "business_name": "DEL BORRELLO FINANCIAL SVCS DE",
+        "trade_name": "UNITED CHECK CASHING",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "3722 PHILADELPHIA PIKE",
+        "address_2": "",
+        "city": "CLAYMONT",
+        "state": "DE",
+        "zip": "19703",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.8051,
+            "longitude": -75.45299
+        }
+    },
+    {
+        "business_name": "AJM  FINANCIAL, LLC",
+        "trade_name": "AJM  FINANCIAL, LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "6 WINEBERRY DR RAMSEY RIDGE",
+        "address_2": "",
+        "city": "HOCKESSIN",
+        "state": "DE",
+        "zip": "19707",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.78725,
+            "longitude": -75.69099
+        }
+    },
+    {
+        "business_name": "NATIONAL SECURITIES CORPORATION",
+        "trade_name": "NATIONAL SECURITIES CORPORATION",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "720 YORKLYN RD STE 5",
+        "address_2": "",
+        "city": "HOCKESSIN",
+        "state": "DE",
+        "zip": "19707",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.78982,
+            "longitude": -75.69082
+        }
+    },
+    {
+        "business_name": "GITAHAR SERIES LLC",
+        "trade_name": "GITAHAR SERIES LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1265 MADISON LN",
+        "address_2": "",
+        "city": "HOCKESSIN",
+        "state": "DE",
+        "zip": "19707",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.78725,
+            "longitude": -75.69099
+        }
+    },
+    {
+        "business_name": "NATIONAL FINANCIAL",
+        "trade_name": "NATIONAL FINANCIAL",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "403 E MAIN ST",
+        "address_2": "",
+        "city": "MIDDLETOWN",
+        "state": "DE",
+        "zip": "19709",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.45059,
+            "longitude": -75.69892
+        }
+    },
+    {
+        "business_name": "EFFICIENT FRONTIER GROUP",
+        "trade_name": "EFFICIENT FRONTIER GROUP",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "26 MORNING DEW DR",
+        "address_2": "",
+        "city": "MIDDLETOWN",
+        "state": "DE",
+        "zip": "19709",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.43038,
+            "longitude": -75.71367
+        }
+    },
+    {
+        "business_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "trade_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "420 SUBURBAN DR",
+        "address_2": "",
+        "city": "NEWARK",
+        "state": "DE",
+        "zip": "19711",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.66779,
+            "longitude": -75.77625
+        }
+    },
+    {
+        "business_name": "EZ LOANS INC",
+        "trade_name": "EZ LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "402 SUBURBAN DR",
+        "address_2": "",
+        "city": "NEWARK",
+        "state": "DE",
+        "zip": "19711",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.66779,
+            "longitude": -75.77625
+        }
+    },
+    {
+        "business_name": "DELAWARE FINANCIAL CAPITAL CORP",
+        "trade_name": "DELAWARE FINANCIAL CAPITAL CORP",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "22 POLLY DRUMMOND HILL RD",
+        "address_2": "",
+        "city": "NEWARK",
+        "state": "DE",
+        "zip": "19711",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.70081,
+            "longitude": -75.7096
+        }
+    },
+    {
+        "business_name": "ELLEN G SHACKELFORD",
+        "trade_name": "ELLEN SHACKELFORD TAX PREP",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "31 ARIZONA STATE DR",
+        "address_2": "",
+        "city": "NEWARK",
+        "state": "DE",
+        "zip": "19713",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.6501,
+            "longitude": -75.77918
+        }
+    },
+    {
+        "business_name": "NCAS OF DELAWARE LLC",
+        "trade_name": "ADVANCE AMERICA  5416",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "8 CHESMAR PLZ",
+        "address_2": "",
+        "city": "NEWARK",
+        "state": "DE",
+        "zip": "19713",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.66194,
+            "longitude": -75.72743
+        }
+    },
+    {
+        "business_name": "EASTERN SPECIALTY FINANCE INC",
+        "trade_name": "CHECK-N-GO",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "27 CHESTNUT HILL PLZ",
+        "address_2": "",
+        "city": "NEWARK",
+        "state": "DE",
+        "zip": "19713",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.66233,
+            "longitude": -75.72389
+        }
+    },
+    {
+        "business_name": "DIAMOND STATE CREDIT SERVICES",
+        "trade_name": "DIAMOND STATE CREDIT SERVICES",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1 CHESTNUT HILL PLZ # 1148",
+        "address_2": "",
+        "city": "NEWARK",
+        "state": "DE",
+        "zip": "19713",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.66233,
+            "longitude": -75.72389
+        }
+    },
+    {
+        "business_name": "NATIONAL FINANCIAL",
+        "trade_name": "LOAN TILL PAYDAY",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "14 MARROWS RD",
+        "address_2": "",
+        "city": "NEWARK",
+        "state": "DE",
+        "zip": "19713",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.66479,
+            "longitude": -75.72718
+        }
+    },
+    {
+        "business_name": "SLM CORPORATION",
+        "trade_name": "SLM CORPORATION",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "300 CONTINENTAL DR FL 1",
+        "address_2": "",
+        "city": "NEWARK",
+        "state": "DE",
+        "zip": "19713",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.68412,
+            "longitude": -75.66134
+        }
+    },
+    {
+        "business_name": "PHILIP J LOWE",
+        "trade_name": "PHILIP J LOWE",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "121 CONTINENTAL DR STE 109",
+        "address_2": "",
+        "city": "NEWARK",
+        "state": "DE",
+        "zip": "19713",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.68759,
+            "longitude": -75.65914
+        }
+    },
+    {
+        "business_name": "CALIBER HOME LOANS INC",
+        "trade_name": "CALIBER HOME LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "200 CONTINENTAL DR STE 201",
+        "address_2": "",
+        "city": "NEWARK",
+        "state": "DE",
+        "zip": "19713",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.68755,
+            "longitude": -75.65901
+        }
+    },
+    {
+        "business_name": "TJC MORTGAGE INC.",
+        "trade_name": "MORTGAGERIGHT",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "200 CONTINENTAL DR STE 401",
+        "address_2": "",
+        "city": "NEWARK",
+        "state": "DE",
+        "zip": "19713",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.68755,
+            "longitude": -75.65901
+        }
+    },
+    {
+        "business_name": "MOVEMENT MORTGAGE LLC",
+        "trade_name": "MOVEMENT MORTGAGE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "200 CONTINENTAL DR STE 401",
+        "address_2": "",
+        "city": "NEWARK",
+        "state": "DE",
+        "zip": "19713",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.68755,
+            "longitude": -75.65901
+        }
+    },
+    {
+        "business_name": "EZ LOANS INC",
+        "trade_name": "EZ LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "ROUTE 273 & APPLEBY RD UNIT 5",
+        "address_2": "",
+        "city": "NEW CASTLE",
+        "state": "DE",
+        "zip": "19720",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.65977,
+            "longitude": -75.56394
+        }
+    },
+    {
+        "business_name": "NATIONAL FINANCIAL",
+        "trade_name": "NATIONAL FINANCIAL",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1511 N DUPONT HWY STE 11",
+        "address_2": "",
+        "city": "NEW CASTLE",
+        "state": "DE",
+        "zip": "19720",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.69191,
+            "longitude": -75.58104
+        }
+    },
+    {
+        "business_name": "EASYDOLLAR LOANS, LLC",
+        "trade_name": "LOANMAX",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1517 N DUPONT HWY",
+        "address_2": "",
+        "city": "NEW CASTLE",
+        "state": "DE",
+        "zip": "19720",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.69319,
+            "longitude": -75.57912
+        }
+    },
+    {
+        "business_name": "EASYDOLLAR LOANS, LLC",
+        "trade_name": "NORTHEASTERN TITLE LOANS",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1502 N DUPONT HWY",
+        "address_2": "",
+        "city": "NEW CASTLE",
+        "state": "DE",
+        "zip": "19720",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.69126,
+            "longitude": -75.58025
+        }
+    },
+    {
+        "business_name": "M&T AUTO GROUP LLC",
+        "trade_name": "NEW CASTLE MOTORS",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "234 S DUPONT HWY",
+        "address_2": "",
+        "city": "NEW CASTLE",
+        "state": "DE",
+        "zip": "19720",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.65302,
+            "longitude": -75.61777
+        }
+    },
+    {
+        "business_name": "NCAS OF DELAWARE LLC",
+        "trade_name": "ADVANCE AMERICA  5467",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "527 E BASIN RD",
+        "address_2": "",
+        "city": "NEW CASTLE",
+        "state": "DE",
+        "zip": "19720",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.67314,
+            "longitude": -75.5855
+        }
+    },
+    {
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
+        "trade_name": "MINUTE LOAN CENTER",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "321 S DUPONT HWY",
+        "address_2": "SHOPPES AT BUENA VISTA",
+        "city": "NEW CASTLE",
+        "state": "DE",
+        "zip": "19720",
+        "country": "UNITED STATES",
+        "location": {}
+    },
+    {
+        "business_name": "DELAWARE TITLE LOANS INC",
+        "trade_name": "DELAWARE TITLE LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "505 N DUPONT HWY",
+        "address_2": "",
+        "city": "NEW CASTLE",
+        "state": "DE",
+        "zip": "19720",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.68489,
+            "longitude": -75.58663
+        }
+    },
+    {
+        "business_name": "EASTERN SPECIALTY FINANCE INC",
+        "trade_name": "CHECK-N-GO",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1504 BEAVER BROOK PLZ",
+        "address_2": "",
+        "city": "NEW CASTLE",
+        "state": "DE",
+        "zip": "19720",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.64079,
+            "longitude": -75.62536
+        }
+    },
+    {
+        "business_name": "LOVETT LENDERS",
+        "trade_name": "LOVETT LENDERS LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "34 MILLRACE LN",
+        "address_2": "",
+        "city": "ROCKLAND",
+        "state": "DE",
+        "zip": "19732",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.79752,
+            "longitude": -75.57273
+        }
+    },
+    {
+        "business_name": "CHERYL  MILLER",
+        "trade_name": "CDV ACCOUNTING",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "115 SYCAMORE LN",
+        "address_2": "",
+        "city": "TOWNSEND",
+        "state": "DE",
+        "zip": "19734",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.42822,
+            "longitude": -75.6523
+        }
+    },
+    {
+        "business_name": "FAIR SQUARE FINANCIAL LLC",
+        "trade_name": "FAIR SQUARE FINANCIAL LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1000 N WEST ST FL 11",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19801",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.74732,
+            "longitude": -75.55036
+        }
+    },
+    {
+        "business_name": "2262011 ONTARIO HOLDINGS INC",
+        "trade_name": "MONEYKEY",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1000 N WEST ST STE 1200",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19801",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.74732,
+            "longitude": -75.55036
+        }
+    },
+    {
+        "business_name": "BERONE CAPITAL",
+        "trade_name": "BERONE CAPITAL",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1201 N MARKET ST STE 111",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19801",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.74777,
+            "longitude": -75.54633
+        }
+    },
+    {
+        "business_name": "EASTERN SPECIALTY FINANCE INC",
+        "trade_name": "CHECK-N-GO",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "800 W 4TH ST STE 401",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19801",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.74357,
+            "longitude": -75.55921
+        }
+    },
+    {
+        "business_name": "VEERY CAPITAL LLC",
+        "trade_name": "",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1 AVE OF THE ARTS STE 1",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19801",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.73735,
+            "longitude": -75.55545
+        }
+    },
+    {
+        "business_name": "NCAS OF DELAWARE LLC",
+        "trade_name": "ADVANCE AMERICA",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "750 SHIPYARD DR STE 300",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19801",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.73262,
+            "longitude": -75.56326
+        }
+    },
+    {
+        "business_name": "RKL FINANCIAL CORPORATION",
+        "trade_name": "RKL FINANCIAL CORPORATION",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "123 S JUSTISON ST STE 300",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19801",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.73839,
+            "longitude": -75.5587
+        }
+    },
+    {
+        "business_name": "NAVIENT CORPORATION",
+        "trade_name": "NAVIENT CORPORATION",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "123 S JUSTISON ST STE 300",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19801",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.73839,
+            "longitude": -75.5587
+        }
+    },
+    {
+        "business_name": "DELAWARE FINANCE COMPANY LLC",
+        "trade_name": "DELAWARE FINANCE COMPANY LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "3601 N MARKET ST",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19802",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.7592,
+            "longitude": -75.52563
+        }
+    },
+    {
+        "business_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "trade_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "4325 CONCORD PIKE",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19803",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.81383,
+            "longitude": -75.54961
+        }
+    },
+    {
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
+        "trade_name": "MINUTE LOAN CENTER",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "2501 CONCORD PIKE",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19803",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.79572,
+            "longitude": -75.54714
+        }
+    },
+    {
+        "business_name": "DELAWARE TITLE LOANS INC",
+        "trade_name": "DELAWARE TITLE LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "3300 CONCORD PIKE STE 1",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19803",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.80141,
+            "longitude": -75.54858
+        }
+    },
+    {
+        "business_name": "EASYDOLLAR LOANS, LLC",
+        "trade_name": "NORTHEASTERN TITLE LOANS",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "2900 CONCORD PIKE",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19803",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.79897,
+            "longitude": -75.54829
+        }
+    },
+    {
+        "business_name": "NATIONAL FINANCIAL",
+        "trade_name": "LOAN TILL PAYDAY",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "109 N MARYLAND AVE",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19804",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.72953,
+            "longitude": -75.58466
+        }
+    },
+    {
+        "business_name": "EZ LOANS INC",
+        "trade_name": "EZ LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1630 E NEWPORT PIKE STE 13A",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19804",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.71557,
+            "longitude": -75.60438
+        }
+    },
+    {
+        "business_name": "NATIONAL FINANCIAL",
+        "trade_name": "LOAN TILL PAYDAY",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1935 W 4TH ST",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19805",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.74924,
+            "longitude": -75.57274
+        }
+    },
+    {
+        "business_name": "DELAWARE TITLE LOANS INC",
+        "trade_name": "DELAWARE TITLE LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "707 S UNION ST UNIT A2",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19805",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.74156,
+            "longitude": -75.58183
+        }
+    },
+    {
+        "business_name": "MILLENNIUM LOAN FUND III, LLC",
+        "trade_name": "MILLENNIUM LOAN FUND III, LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "62 ROCKFORD RD STE 10",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19806",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.7681,
+            "longitude": -75.56599
+        }
+    },
+    {
+        "business_name": "MILLENIUM LOAN FUND LLC",
+        "trade_name": "MILLENIUM LOAN FUND LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "62 ROCKFORD RD",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19806",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.7681,
+            "longitude": -75.56599
+        }
+    },
+    {
+        "business_name": "MILLENNIUM LOAN FUND II, LLC",
+        "trade_name": "MILLENNIUM LOAN FUND II, LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "62 ROCKFORD RD STE 10",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19806",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.7681,
+            "longitude": -75.56599
+        }
+    },
+    {
+        "business_name": "EMBRACE HOME LOANS INC",
+        "trade_name": "EMBRACE HOME LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "5341 LIMESTONE RD",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19808",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.74692,
+            "longitude": -75.70016
+        }
+    },
+    {
+        "business_name": "SAND FINANCIAL SERIES LLC",
+        "trade_name": "SAND FINANCIAL SERIES LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "503 CHARIOT CT",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19808",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.75503,
+            "longitude": -75.64635
+        }
+    },
+    {
+        "business_name": "ROYAL BANK OF CANADA",
+        "trade_name": "ROYAL BANK OF CANADA",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "2751 CENTERVILLE RD STE 212",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19808",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.7557,
+            "longitude": -75.62645
+        }
+    },
+    {
+        "business_name": "ARDEN TRUST COMPANY",
+        "trade_name": "ARDEN TRUST COMPANY",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "2751 CENTERVILLE RD STE 400",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19808",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.7557,
+            "longitude": -75.62645
+        }
+    },
+    {
+        "business_name": "NORTHPOINTE BANCSHARES INC",
+        "trade_name": "NORTHPOINTE BANK",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "5560B KIRKWOOD HWY",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19808",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.71558,
+            "longitude": -75.67309
+        }
+    },
+    {
+        "business_name": "EASTERN SPECIALTY FINANCE INC",
+        "trade_name": "CHECK-N-GO",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "3843 KIRKWOOD HWY",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19808",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.7314,
+            "longitude": -75.64493
+        }
+    },
+    {
+        "business_name": "MARINER FINANCE LLC",
+        "trade_name": "MARINER FINANCE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "3616 KIRKWOOD HWY STE D",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19808",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.73409,
+            "longitude": -75.63719
+        }
+    },
+    {
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
+        "trade_name": "MINUTE LOAN CENTER",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "3210 KIRKWOOD HWY",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19808",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.73712,
+            "longitude": -75.62511
+        }
+    },
+    {
+        "business_name": "H C A C LLC",
+        "trade_name": "H C A C LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "3400 KIRKWOOD HWY STE B",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19808",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.73522,
+            "longitude": -75.63307
+        }
+    },
+    {
+        "business_name": "UMB DELAWARE INC",
+        "trade_name": "UMB DELAWARE INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "405 SILVERSIDE RD STE 101",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19809",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.78516,
+            "longitude": -75.48517
+        }
+    },
+    {
+        "business_name": "UMB BANK NA",
+        "trade_name": "UMB BANK NA",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "405 SILVERSIDE RD STE 101",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19809",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.78516,
+            "longitude": -75.48517
+        }
+    },
+    {
+        "business_name": "DYLAN  AMOROSO",
+        "trade_name": "BRANDYWINE HUNDRED ADVISORS",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1309 VEALE RD STE 10",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19810",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.80078,
+            "longitude": -75.50384
+        }
+    },
+    {
+        "business_name": "MARLETTE FUNDING LLC",
+        "trade_name": "BEST EGG",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "3419 SILVERSIDE RD",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19810",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.80886,
+            "longitude": -75.54262
+        }
+    },
+    {
+        "business_name": "MARLETTE SERVICING LLC",
+        "trade_name": "MARLETTE SERVICING LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "3419 SILVERSIDE RD",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19810",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.80886,
+            "longitude": -75.54262
+        }
+    },
+    {
+        "business_name": "PSCU FINANCIAL SERVICES, INC",
+        "trade_name": "PSCU FINANCIAL SERVICES, INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "3411 SILVERSIDE RD",
+        "address_2": "TATNALL BUILDING #104",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19810",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.73982,
+            "longitude": -75.55458
+        }
+    },
+    {
+        "business_name": "WTNA",
+        "trade_name": "WTNA",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1100 N MARKET ST LBBY",
+        "address_2": "",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zip": "19890",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.74685,
+            "longitude": -75.54677
+        }
+    },
+    {
+        "business_name": "EZ CASH OF DELAWARE INC",
+        "trade_name": "EZ CASH OF DELAWARE INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "GATEWAY SOUTH BLVD STE 230",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19901",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.10597,
+            "longitude": -75.50358
+        }
+    },
+    {
+        "business_name": "NATIONAL BENEFIT SERVICES LLC",
+        "trade_name": "NATIONAL BENEFIT SERVICES LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "8 THE GRN STE R",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19901",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.15649,
+            "longitude": -75.52417
+        }
+    },
+    {
+        "business_name": "MARINER FINANCE LLC",
+        "trade_name": "MARINER FINANCE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "222 S DUPONT HWY STE 206",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19901",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.16112,
+            "longitude": -75.51355
+        }
+    },
+    {
+        "business_name": "NORTHPOINTE BANCSHARES INC",
+        "trade_name": "NORTHPOINTE BANK",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "800 N STATE ST STE 202&302",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19901",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.17572,
+            "longitude": -75.52997
+        }
+    },
+    {
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
+        "trade_name": "MINUTE LOAN CENTER",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "510 N DUPONT HWY",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19901",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.17591,
+            "longitude": -75.52439
+        }
+    },
+    {
+        "business_name": "EASYDOLLAR LOANS, LLC",
+        "trade_name": "NORTHEASTERN TITLE LOANS",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "105 N DUPONT HWY",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19901",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.16697,
+            "longitude": -75.51662
+        }
+    },
+    {
+        "business_name": "NATIONAL FINANCIAL",
+        "trade_name": "NATIONAL FINANCIAL",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "178A N DUPONT HWY STE A",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19901",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.16703,
+            "longitude": -75.517
+        }
+    },
+    {
+        "business_name": "TRI-STATE AUTO OUTLET INC",
+        "trade_name": "CAR ZONE",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1041 S DUPONT HWY",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19901",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.14397,
+            "longitude": -75.51717
+        }
+    },
+    {
+        "business_name": "NCAS OF DELAWARE LLC",
+        "trade_name": "ADVANCE AMERICA  5417",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "264 S DUPONT HWY",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19901",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.16054,
+            "longitude": -75.51312
+        }
+    },
+    {
+        "business_name": "DELAWARE TITLE LOANS INC",
+        "trade_name": "DELAWARE TITLE LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "260 S DUPONT HWY",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19901",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.16054,
+            "longitude": -75.51312
+        }
+    },
+    {
+        "business_name": "MOVEMENT MORTGAGE LLC",
+        "trade_name": "MOVEMENT MORTGAGE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1675 S STATE ST STE 4AC",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19901",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.12824,
+            "longitude": -75.51829
+        }
+    },
+    {
+        "business_name": "HILL FINANCIAL SOLUTIONS LLC",
+        "trade_name": "HILL FINANCIAL SOLUTIONS LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "2145 S DUPONT HWY STE 3",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19901",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.12005,
+            "longitude": -75.53394
+        }
+    },
+    {
+        "business_name": "EASTERN SPECIALTY FINANCE INC",
+        "trade_name": "CHECK-N-GO",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "283 N DUPONT HWY STE B",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19901",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.17106,
+            "longitude": -75.51884
+        }
+    },
+    {
+        "business_name": "EZ CASH OF DELAWARE INC",
+        "trade_name": "EZ CASH OF DELAWARE INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1030 FORREST AVE STE 122",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19904",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.15873,
+            "longitude": -75.54492
+        }
+    },
+    {
+        "business_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "trade_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1001 S BRADFORD ST STE 4",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19904",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.14693,
+            "longitude": -75.52393
+        }
+    },
+    {
+        "business_name": "BFO INVESTMENTS LLC",
+        "trade_name": "BFO INVESTMENTS LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1111B S GOVERNORS AVE",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19904",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.13868,
+            "longitude": -75.52637
+        }
+    },
+    {
+        "business_name": "SHORE FINANCE LLC",
+        "trade_name": "SHORE FINANCE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1650 S GOVERNORS AVE",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19904",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.12936,
+            "longitude": -75.5308
+        }
+    },
+    {
+        "business_name": "SHORE FINANCE LLC",
+        "trade_name": "SHORE FINANCE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "71 GREENTREE DR",
+        "address_2": "",
+        "city": "DOVER",
+        "state": "DE",
+        "zip": "19904",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.16025,
+            "longitude": -75.55471
+        }
+    },
+    {
+        "business_name": "KERCHNER RONALD",
+        "trade_name": "CHURCH BOOKKEEPING SERVICES LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "2703 ROUND ROBIN WAY",
+        "address_2": "",
+        "city": "BETHANY BEACH",
+        "state": "DE",
+        "zip": "19930",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.53816,
+            "longitude": -75.05817
+        }
+    },
+    {
+        "business_name": "NATIONAL FINANCIAL",
+        "trade_name": "NATIONAL FINANCIAL",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "9537 BRIDGEVILLE CTR UNIT 4",
+        "address_2": "",
+        "city": "BRIDGEVILLE",
+        "state": "DE",
+        "zip": "19933",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.71978,
+            "longitude": -75.58668
+        }
+    },
+    {
+        "business_name": "EASTERN SPECIALTY FINANCE INC",
+        "trade_name": "CHECK-N-GO",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "374 WALMART DR STE 3",
+        "address_2": "",
+        "city": "CAMDEN",
+        "state": "DE",
+        "zip": "19934",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.1001,
+            "longitude": -75.54507
+        }
+    },
+    {
+        "business_name": "ATLANTIC FINANCIALS LLC",
+        "trade_name": "ATLANTIC FINANCIALS LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "30028 VINES CREEK RD",
+        "address_2": "",
+        "city": "DAGSBORO",
+        "state": "DE",
+        "zip": "19939",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.55034,
+            "longitude": -75.22837
+        }
+    },
+    {
+        "business_name": "NATIONAL FINANCIAL",
+        "trade_name": "NATIONAL FINANCIAL",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "500 N BI STATE BLVD",
+        "address_2": "",
+        "city": "DELMAR",
+        "state": "DE",
+        "zip": "19940",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.46061,
+            "longitude": -75.57408
+        }
+    },
+    {
+        "business_name": "EZ CASH OF DELAWARE INC",
+        "trade_name": "EZ CASH OF DELAWARE INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "300 N BI STATE BLVD STE 2",
+        "address_2": "",
+        "city": "DELMAR",
+        "state": "DE",
+        "zip": "19940",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.45873,
+            "longitude": -75.57411
+        }
+    },
+    {
+        "business_name": "NORVAL LENDING",
+        "trade_name": "NORVAL LENDING",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "10977 STATE ST UNIT 6",
+        "address_2": "",
+        "city": "DELMAR",
+        "state": "DE",
+        "zip": "19940",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.45561,
+            "longitude": -75.55995
+        }
+    },
+    {
+        "business_name": "SHORE FINANCE LLC",
+        "trade_name": "SHORE FINANCE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "10977 STATE ST UNIT 3",
+        "address_2": "",
+        "city": "DELMAR",
+        "state": "DE",
+        "zip": "19940",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.45561,
+            "longitude": -75.55995
+        }
+    },
+    {
+        "business_name": "DELMARVA MOTORS ACCEPTANCE CORP",
+        "trade_name": "DELMARVA MOTORS ACCEPTANCE CORP",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "10977 STATE ST UNIT 6",
+        "address_2": "",
+        "city": "DELMAR",
+        "state": "DE",
+        "zip": "19940",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.45561,
+            "longitude": -75.55995
+        }
+    },
+    {
+        "business_name": "EASYDOLLAR LOANS, LLC",
+        "trade_name": "NORTHEASTERN TITLE LOANS",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "38650 SUSSEX HWY UNIT 10",
+        "address_2": "",
+        "city": "DELMAR",
+        "state": "DE",
+        "zip": "19940",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.45726,
+            "longitude": -75.5584
+        }
+    },
+    {
+        "business_name": "EZ LOANS INC",
+        "trade_name": "EZ LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "38613 BENRO DR UNIT 7",
+        "address_2": "",
+        "city": "DELMAR",
+        "state": "DE",
+        "zip": "19940",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.45666,
+            "longitude": -75.55658
+        }
+    },
+    {
+        "business_name": "NCAS OF DELAWARE LLC",
+        "trade_name": "ADVANCE AMERICA  5419",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "27 GEORGETOWN PLZ",
+        "address_2": "",
+        "city": "GEORGETOWN",
+        "state": "DE",
+        "zip": "19947",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.68082,
+            "longitude": -75.39694
+        }
+    },
+    {
+        "business_name": "PNC BANK NA",
+        "trade_name": "PNC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "20915 DUPONT BLVD P O BOX 823",
+        "address_2": "",
+        "city": "GEORGETOWN",
+        "state": "DE",
+        "zip": "19947",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.68959,
+            "longitude": -75.39795
+        }
+    },
+    {
+        "business_name": "HRB TAX GROUP INC",
+        "trade_name": "H&R BLOCK",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "21305 BERLIN RD",
+        "address_2": "",
+        "city": "GEORGETOWN",
+        "state": "DE",
+        "zip": "19947",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.69666,
+            "longitude": -75.39973
+        }
+    },
+    {
+        "business_name": "EZ CASH OF DELAWARE INC",
+        "trade_name": "EZ CASH OF DELAWARE INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "21305 BERLIN RD UNIT 3",
+        "address_2": "",
+        "city": "GEORGETOWN",
+        "state": "DE",
+        "zip": "19947",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.69666,
+            "longitude": -75.39973
+        }
+    },
+    {
+        "business_name": "EZ LOANS INC",
+        "trade_name": "EZ LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "UNIT 5 RT 13 LIBERTY PLAZA",
+        "address_2": "",
+        "city": "HARRINGTON",
+        "state": "DE",
+        "zip": "19952",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.92317,
+            "longitude": -75.57552
+        }
+    },
+    {
+        "business_name": "AMERICAN FINANCE LLC",
+        "trade_name": "AMERICAN FINANCE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "17507 S DUPONT HWY",
+        "address_2": "",
+        "city": "HARRINGTON",
+        "state": "DE",
+        "zip": "19952",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.91846,
+            "longitude": -75.56844
+        }
+    },
+    {
+        "business_name": "WALKER & DUNLOP INVESTMENT PARTN",
+        "trade_name": "WALKER & DUNLOP INVESTMENT PARTN",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "135 2ND ST FL 2",
+        "address_2": "",
+        "city": "LEWES",
+        "state": "DE",
+        "zip": "19958",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.77556,
+            "longitude": -75.13998
+        }
+    },
+    {
+        "business_name": "MOVEMENT MORTGAGE LLC",
+        "trade_name": "MOVEMENT MORTGAGE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "18297 COASTAL HWY UNIT B",
+        "address_2": "",
+        "city": "LEWES",
+        "state": "DE",
+        "zip": "19958",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.7423,
+            "longitude": -75.14936
+        }
+    },
+    {
+        "business_name": "DELAWARE TITLE LOANS INC",
+        "trade_name": "DELAWARE TITLE LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "17672 COASTAL HWY",
+        "address_2": "",
+        "city": "LEWES",
+        "state": "DE",
+        "zip": "19958",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.74837,
+            "longitude": -75.16821
+        }
+    },
+    {
+        "business_name": "PNC BANK NA",
+        "trade_name": "",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "655 N DUPONT BLVD",
+        "address_2": "",
+        "city": "MILFORD",
+        "state": "DE",
+        "zip": "19963",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.91615,
+            "longitude": -75.44258
+        }
+    },
+    {
+        "business_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "trade_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "660 N DUPONT BLVD",
+        "address_2": "",
+        "city": "MILFORD",
+        "state": "DE",
+        "zip": "19963",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.92018,
+            "longitude": -75.4387
+        }
+    },
+    {
+        "business_name": "SHORE FINANCE LLC",
+        "trade_name": "SHORE FINANCE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "927 N DUPONT BLVD",
+        "address_2": "",
+        "city": "MILFORD",
+        "state": "DE",
+        "zip": "19963",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.92835,
+            "longitude": -75.43266
+        }
+    },
+    {
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
+        "trade_name": "MINUTE LOAN CENTER",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "945 N DUPONT BLVD STE C",
+        "address_2": "",
+        "city": "MILFORD",
+        "state": "DE",
+        "zip": "19963",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.93063,
+            "longitude": -75.43126
+        }
+    },
+    {
+        "business_name": "NCAS OF DELAWARE LLC",
+        "trade_name": "ADVANCE AMERICA  5418",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "941 N DUPONT BLVD STE J",
+        "address_2": "",
+        "city": "MILFORD",
+        "state": "DE",
+        "zip": "19963",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.92981,
+            "longitude": -75.4317
+        }
+    },
+    {
+        "business_name": "NATIONAL FINANCIAL",
+        "trade_name": "NATIONAL FINANCIAL",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "1051 N WALNUT ST SPC 10",
+        "address_2": "",
+        "city": "MILFORD",
+        "state": "DE",
+        "zip": "19963",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.93195,
+            "longitude": -75.42961
+        }
+    },
+    {
+        "business_name": "MARINER FINANCE LLC",
+        "trade_name": "MARINER FINANCE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "28263 LEXUS DR UNIT 3",
+        "address_2": "",
+        "city": "MILFORD",
+        "state": "DE",
+        "zip": "19963",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.89684,
+            "longitude": -75.44269
+        }
+    },
+    {
+        "business_name": "HRB TAX GROUP INC",
+        "trade_name": "H&R BLOCK",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "28417 DUPONT BLVD UNIT 4",
+        "address_2": "",
+        "city": "MILLSBORO",
+        "state": "DE",
+        "zip": "19966",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.58882,
+            "longitude": -75.30022
+        }
+    },
+    {
+        "business_name": "SHORE FINANCE LLC",
+        "trade_name": "SHORE FINANCE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "400 DELAWARE AVE",
+        "address_2": "",
+        "city": "MILLSBORO",
+        "state": "DE",
+        "zip": "19966",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.59179,
+            "longitude": -75.30299
+        }
+    },
+    {
+        "business_name": "NATIONAL FINANCIAL",
+        "trade_name": "NATIONAL FINANCIAL",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "123 E DUPONT HWY",
+        "address_2": "",
+        "city": "MILLSBORO",
+        "state": "DE",
+        "zip": "19966",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.58435,
+            "longitude": -75.29375
+        }
+    },
+    {
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
+        "trade_name": "MINUTE LOAN CENTER",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "26670 CENTERVIEW DR UNIT B",
+        "address_2": "",
+        "city": "MILLSBORO",
+        "state": "DE",
+        "zip": "19966",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.57361,
+            "longitude": -75.28857
+        }
+    },
+    {
+        "business_name": "EZ LOANS INC",
+        "trade_name": "EZ LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "28544 DUPONT BLVD",
+        "address_2": "",
+        "city": "MILLSBORO",
+        "state": "DE",
+        "zip": "19966",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.58238,
+            "longitude": -75.29275
+        }
+    },
+    {
+        "business_name": "MB ADVISORS CPA OF DE PA",
+        "trade_name": "MB ADVISORS CPA OF DE PA",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "PO BOX 154",
+        "address_2": "",
+        "city": "OCEAN VIEW",
+        "state": "DE",
+        "zip": "19970",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.54645,
+            "longitude": -75.09005
+        }
+    },
+    {
+        "business_name": "NORTHPOINTE BANCSHARES INC",
+        "trade_name": "NORTHPOINTE BANK",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "19606 COASTAL HIGHWAY",
+        "address_2": "",
+        "city": "REHOBOTH BEACH",
+        "state": "DE",
+        "zip": "19971",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.71574,
+            "longitude": -75.08182
+        }
+    },
+    {
+        "business_name": "WATERSTONE MORTGAGE CORPORATION",
+        "trade_name": "WATERSTONE MORTGAGE CORPORATION",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "330 REHOBOTH AVE STE B",
+        "address_2": "",
+        "city": "REHOBOTH BCH",
+        "state": "DE",
+        "zip": "19971",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.71524,
+            "longitude": -75.08814
+        }
+    },
+    {
+        "business_name": "BELL ROCK CAPITAL LLC",
+        "trade_name": "BELL ROCK CAPITAL LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "35568 AIRPORT RD",
+        "address_2": "",
+        "city": "REHOBOTH BCH",
+        "state": "DE",
+        "zip": "19971",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.72399,
+            "longitude": -75.13021
+        }
+    },
+    {
+        "business_name": "COASTAL ASSET MANAGEMENT CO",
+        "trade_name": "COASTAL ASSET MANAGEMENT CO",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "35568 AIRPORT RD",
+        "address_2": "",
+        "city": "REHOBOTH BCH",
+        "state": "DE",
+        "zip": "19971",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.72399,
+            "longitude": -75.13021
+        }
+    },
+    {
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
+        "trade_name": "MINUTE LOAN CENTER",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "19470 COASTAL HWY UNIT 4",
+        "address_2": "",
+        "city": "REHOBOTH BCH",
+        "state": "DE",
+        "zip": "19971",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.7201,
+            "longitude": -75.11953
+        }
+    },
+    {
+        "business_name": "PRIMELENDING, A PLAINSCAPITAL CO",
+        "trade_name": "PRIMELENDING, A PLAINSCAPITAL CO",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "20336 COASTAL HWY",
+        "address_2": "",
+        "city": "REHOBOTH BCH",
+        "state": "DE",
+        "zip": "19971",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.71033,
+            "longitude": -75.09721
+        }
+    },
+    {
+        "business_name": "EMBRACE HOME LOANS INC",
+        "trade_name": "EMBRACE HOME LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "50 CASCADE LN",
+        "address_2": "",
+        "city": "REHOBOTH BCH",
+        "state": "DE",
+        "zip": "19971",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.72693,
+            "longitude": -75.1265
+        }
+    },
+    {
+        "business_name": "MOVEMENT MORTGAGE LLC",
+        "trade_name": "MOVEMENT MORTGAGE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "312 E STEIN HWY",
+        "address_2": "",
+        "city": "SEAFORD",
+        "state": "DE",
+        "zip": "19973",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.64701,
+            "longitude": -75.615
+        }
+    },
+    {
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
+        "trade_name": "MINUTE LOAN CENTER",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "855 NORMAN ESKRIDGE HWY",
+        "address_2": "",
+        "city": "SEAFORD",
+        "state": "DE",
+        "zip": "19973",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.6501,
+            "longitude": -75.60194
+        }
+    },
+    {
+        "business_name": "EZ LOANS INC",
+        "trade_name": "EZ LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "900 NORMAN ESKRIDGE HWY UNIT 70",
+        "address_2": "",
+        "city": "SEAFORD",
+        "state": "DE",
+        "zip": "19973",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.65104,
+            "longitude": -75.60084
+        }
+    },
+    {
+        "business_name": "PROFESSIONAL LEASING INC",
+        "trade_name": "P L P FINANCIAL",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "740 SUSSEX AVE",
+        "address_2": "",
+        "city": "SEAFORD",
+        "state": "DE",
+        "zip": "19973",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.64694,
+            "longitude": -75.63389
+        }
+    },
+    {
+        "business_name": "EASYDOLLAR LOANS, LLC",
+        "trade_name": "NORTHEASTERN TITLE LOANS",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "24504 SUSSEX HWY",
+        "address_2": "",
+        "city": "SEAFORD",
+        "state": "DE",
+        "zip": "19973",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.64603,
+            "longitude": -75.59365
+        }
+    },
+    {
+        "business_name": "HRB TAX GROUP INC",
+        "trade_name": "H&R BLOCK",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "22946 SUSSEX HWY",
+        "address_2": "",
+        "city": "SEAFORD",
+        "state": "DE",
+        "zip": "19973",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.6582,
+            "longitude": -75.59446
+        }
+    },
+    {
+        "business_name": "DELAWARE TITLE LOANS INC",
+        "trade_name": "DELAWARE TITLE LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "22994 SUSSEX HWY",
+        "address_2": "",
+        "city": "SEAFORD",
+        "state": "DE",
+        "zip": "19973",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.6582,
+            "longitude": -75.59446
+        }
+    },
+    {
+        "business_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "trade_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "22974 SUSSEX HWY",
+        "address_2": "",
+        "city": "SEAFORD",
+        "state": "DE",
+        "zip": "19973",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.6582,
+            "longitude": -75.59446
+        }
+    },
+    {
+        "business_name": "MARINER FINANCE LLC",
+        "trade_name": "MARINER FINANCE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "22826 SUSSEX HWY",
+        "address_2": "",
+        "city": "SEAFORD",
+        "state": "DE",
+        "zip": "19973",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.66355,
+            "longitude": -75.5938
+        }
+    },
+    {
+        "business_name": "NCAS OF DELAWARE LLC",
+        "trade_name": "ADVANCE AMERICA",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "22828 SUSSEX HWY",
+        "address_2": "",
+        "city": "SEAFORD",
+        "state": "DE",
+        "zip": "19973",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.66355,
+            "longitude": -75.5938
+        }
+    },
+    {
+        "business_name": "NATIONAL FINANCIAL",
+        "trade_name": "NATIONAL FINANCIAL",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "23442 SUSSEX HWY SPC 10",
+        "address_2": "",
+        "city": "SEAFORD",
+        "state": "DE",
+        "zip": "19973",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.65635,
+            "longitude": -75.59468
+        }
+    },
+    {
+        "business_name": "SHORE FINANCE LLC",
+        "trade_name": "SHORE FINANCE LLC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "22937 SUSSEX HWY",
+        "address_2": "",
+        "city": "SEAFORD",
+        "state": "DE",
+        "zip": "19973",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.65829,
+            "longitude": -75.59402
+        }
+    },
+    {
+        "business_name": "EZ CASH OF DELAWARE INC",
+        "trade_name": "EZ CASH OF DELAWARE INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "23439 SUSSEX HWY",
+        "address_2": "",
+        "city": "SEAFORD",
+        "state": "DE",
+        "zip": "19973",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.65444,
+            "longitude": -75.59426
+        }
+    },
+    {
+        "business_name": "T F DOYLE INC",
+        "trade_name": "MILLENNIUM MOTORS",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "24703 SUSSEX HWY",
+        "address_2": "",
+        "city": "SEAFORD",
+        "state": "DE",
+        "zip": "19973",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.63838,
+            "longitude": -75.59306
+        }
+    },
+    {
+        "business_name": "EZ LOANS INC",
+        "trade_name": "EZ LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "38394 DUPONT BLVD UNIT E",
+        "address_2": "",
+        "city": "SELBYVILLE",
+        "state": "DE",
+        "zip": "19975",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.45693,
+            "longitude": -75.23366
+        }
+    },
+    {
+        "business_name": "NATIONAL FINANCIAL",
+        "trade_name": "LOAN TILL PAYDAY",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "38223 DUPONT BLVD",
+        "address_2": "",
+        "city": "SELBYVILLE",
+        "state": "DE",
+        "zip": "19975",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.45879,
+            "longitude": -75.23328
+        }
+    },
+    {
+        "business_name": "HRB TAX GROUP INC",
+        "trade_name": "H&R BLOCK",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "38445 DUPONT BLVD UNIT 3",
+        "address_2": "",
+        "city": "SELBYVILLE",
+        "state": "DE",
+        "zip": "19975",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 38.45592,
+            "longitude": -75.23278
+        }
+    },
+    {
+        "business_name": "EZ CASH OF DELAWARE INC",
+        "trade_name": "EZ CASH OF DELAWARE INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "234 E GLENWOOD AVE",
+        "address_2": "",
+        "city": "SMYRNA",
+        "state": "DE",
+        "zip": "19977",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.30546,
+            "longitude": -75.60801
+        }
+    },
+    {
+        "business_name": "EZ LOANS INC",
+        "trade_name": "EZ LOANS INC",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "229 STADIUM ST",
+        "address_2": "",
+        "city": "SMYRNA",
+        "state": "DE",
+        "zip": "19977",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.28004,
+            "longitude": -75.58962
+        }
+    },
+    {
+        "business_name": "EASTERN SPECIALTY FINANCE INC",
+        "trade_name": "CHECK-N-GO",
+        "business_activity": "FINANCE OR SMALL LOAN AGENCY",
+        "address_1": "599 JIMMY DR STE 14",
+        "address_2": "",
+        "city": "SMYRNA",
+        "state": "DE",
+        "zip": "19977",
+        "country": "UNITED STATES",
+        "location": {
+            "latitude": 39.28194,
+            "longitude": -75.59461
+        }
+    }
+]

@@ -21,7 +21,7 @@ const d = {
 
 const View = () => {
   const { query, _ } = useContext(QueryContext);
-  const [data, setData] = useState({});
+  const [data, setData] = useState([]);
 
   useEffect(() => {
     const jData = async () => {
@@ -53,14 +53,10 @@ const View = () => {
     jData();
   }, []);
 
-  useEffect(() => {
-    console.log(data);
-  }, [data]);
-
   return (
     <div className="content">
       {data.map((d) => (
-        <AppCard {...d} />
+        <AppCard id={d.id} {...d} />
       ))}
     </div>
   );

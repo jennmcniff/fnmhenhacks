@@ -7,28 +7,16 @@ from rapidfuzz import process
 
 app = Blueprint("api", __name__)
 
-BUISINESSES = load_data()
-
-
-@app.route("/api/search/<name>")
-def search(name: str):
-    """
-    The name is used to fuzzy search against "trade_name".
-    `zip` is used a filter.
-    """
-    businesses = process.extract(
-        name, {b: b.trade_name for b in BUISINESSES}, limit=None, score_cutoff=70
-    )
-
-    return filter_request([b[2] for b in businesses])
+BUSINESSES = load_data()
 
 
 @app.route("/api/search")
 async def search_():
     """
-    Search but without a name.
+    The name is used to fuzzy search against "trade_name".
+    `zip` is used a filter.
     """
-    return filter_request(BUISINESSES)
+    return filter_request(BUSINESSES)
 
 
 def dist(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
@@ -48,11 +36,22 @@ def dist(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
     )
 
 
-def filter_request(buisinesses: list[Business]):
+def filter_request(businesses: list[Business]):
+    name = request.args.get("name")
+    if name:
+        businesses = process.extract(
+            name,
+            {b: b.trade_name.lower() for b in businesses},
+            limit=None,
+            score_cutoff=50,
+        )
+
+        businesses = [b[2] for b in businesses]
+
     zip = request.args.get("zip")
 
     if zip:
-        buisinesses = filter(lambda b: b.zip == zip, BUISINESSES)
+        businesses = filter(lambda b: b.zip == zip, businesses)
 
     location = request.args.get("location")
     if location:
@@ -67,13 +66,13 @@ def filter_request(buisinesses: list[Business]):
                 406,
             )
 
-        buisinesses = filter(
+        businesses = filter(
             lambda b: b.location.latitude
             and dist(latitude, longitude, b.location.latitude, b.location.longitude)
             < miles,
-            buisinesses,
+            businesses,
         )
 
-        print(buisinesses)
+        print(businesses)
 
-    return [business.to_json() for business in buisinesses]
+    return [business.to_json() for business in businesses]

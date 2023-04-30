@@ -7,7 +7,7 @@ const Info = () => {
   const getData = async (query) => {
     const response = await fetch("/public/info.md");
 
-    return (await response.text());
+    return await response.text();
   };
 
   useEffect(() => {

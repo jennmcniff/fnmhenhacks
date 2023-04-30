@@ -29,7 +29,7 @@ def main():
         return {
             "buisiness_name": data["Business name"],
             "trade_name": data["Trade name"],
-            "buisiness_activity": data["Business Activity"],
+            "business_activity": data["Business Activity"],
             "address_1": data["Address 1"],
             "address_2": data["Address 2"],
             "city": data["City"],

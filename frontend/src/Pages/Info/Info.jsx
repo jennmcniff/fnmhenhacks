@@ -17,7 +17,21 @@ bank account.
 `;
 
 const Info = () => {
-  return <ReactMarkdown>markdown</ReactMarkdown>;
+  return (
+    <div style={{ textAlign: "center" }}>
+      <div
+        style={{
+          textAlign: "left",
+          margin: "0px auto auto auto",
+          maxWidth: "50%",
+          marginLeft: "0%",
+          display: "inline-block",
+        }}
+      >
+        <ReactMarkdown children={markdown}></ReactMarkdown>
+      </div>
+    </div>
+  );
 };
 
 export default Info;

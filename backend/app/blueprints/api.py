@@ -40,7 +40,7 @@ def filter_request(businesses: list[Business]):
     name = request.args.get("name")
     if name:
         businesses = process.extract(
-            name,
+            name.lower(),
             {b: b.trade_name.lower() for b in businesses},
             limit=None,
             score_cutoff=50,

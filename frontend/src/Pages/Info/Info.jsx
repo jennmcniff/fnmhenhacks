@@ -5,15 +5,15 @@ import ReactMarkdown from "react-markdown";
 const Info = () => {
   const [data, setData] = useState("");
   const getData = async (query) => {
-    const response = await fetch("/static/info.md");
+    const response = await fetch("/public/info.md");
 
-    console.log(response.text());
+    return (await response.text());
   };
 
   useEffect(() => {
-    getData();
+    setData(getData());
   }, []);
-  return <ReactMarkdown>{"# Your markdown here"}</ReactMarkdown>;
+  return <ReactMarkdown children={data} />;
 };
 
 export default Info;

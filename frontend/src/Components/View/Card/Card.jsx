@@ -79,15 +79,15 @@ const AppCard = (props) => {
           </Row>
         </Col>
       </Row>
-      <div className="detailsb">
-        <a
-          href={`https://www.google.com/maps/search/?api=1&query=${location.latitude}%2C${location.longitude}&query_place_id=${trade_name}`}
-          target="_blank"
-          className="details"
-        >
+      <button
+        type="button"
+        className="detailsb"
+        onclick=`https://www.google.com/maps/search/?api=1&query=${location.latitude}%2C${location.longitude}&query_place_id=${trade_name}`
+      >
+        <spanclassName="details">
           View Details
         </a>
-      </div>
+      </button>
     </Card>
   );
 };

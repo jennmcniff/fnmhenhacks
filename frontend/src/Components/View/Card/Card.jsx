@@ -5,6 +5,7 @@ import "./Card.css";
 const AppCard = (props) => {
   const {
     business_name,
+    trade_name,
     business_activity,
     address_1,
     address_2,
@@ -25,7 +26,7 @@ const AppCard = (props) => {
   }, []);
 
   return (
-    <Card title={business_name} bordered={true} className="card">
+    <Card title={trade_name} bordered={true} className="card">
       <Row>
         <Col span={6}>Map if works</Col>
         <Col span={18}>

@@ -21,9 +21,9 @@ const Services = () => {
     setOpen(true);
   };
 
-  useEffect(() => {
-    setQuery({ services: [...selected] });
-  }, [selected]);
+  // useEffect(() => {
+  //   // setQuery({ services: [...selected] });
+  // }, [selected]);
 
   const items = [
     {

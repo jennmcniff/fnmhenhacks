@@ -37,12 +37,19 @@ const AppCard = (props) => {
           <ComposableMap
             projectionConfig={{
               scale: 20000,
-              center: [location.longitude, location.latitude],
+              center:
+                location == null
+                  ? [-75, 39]
+                  : [location.longitude, location.latitude],
             }}
             style={{ maxHeight: "100px" }}
           >
             <ZoomableGroup
-              center={[location.longitude, location.latitude]}
+              center={
+                location == null
+                  ? [-75, 39]
+                  : [location.longitude, location.latitude]
+              }
               zoom={9}
             >
               <Geographies geography="https://raw.githubusercontent.com/OpenDataDE/de-geojson-data/master/firstmap/boundaries/de_boundaries_county_state.min.json">

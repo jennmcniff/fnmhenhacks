@@ -80,7 +80,11 @@ const AppCard = (props) => {
         </Col>
       </Row>
       <div className="detailsb">
-        <a href="/" className="details">
+        <a
+          href={`https://www.google.com/maps/search/?api=1&query=${location.latitude}%2C${location.longitude}&query_place_id=${trade_name}`}
+          target="_blank"
+          className="details"
+        >
           View Details
         </a>
       </div>

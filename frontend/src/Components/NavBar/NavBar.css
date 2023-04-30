@@ -1,0 +1,33 @@
+.mainN {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #001ab9;
+  padding: 1%;
+}
+
+.team {
+  font-weight: 800;
+  font-size: large;
+  color: white;
+}
+
+.nav {
+  display: flex;
+  flex: 1 0 auto;
+  justify-content: right;
+  align-items: center;
+  height: 30px;
+}
+
+a {
+  margin: 0%;
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+  margin-right: 4%;
+}
+
+a:hover {
+  color: #fda172;
+}

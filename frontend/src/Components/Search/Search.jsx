@@ -25,7 +25,7 @@ const AppSearch = () => {
   }, [search, zipCode]);
 
   return (
-    <Row>
+    <Row gutter={6}>
       <Col span={4}>
         <Services />
       </Col>

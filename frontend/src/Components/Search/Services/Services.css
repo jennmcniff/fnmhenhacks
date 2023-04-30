@@ -3,4 +3,9 @@
   justify-content: space-between;
   align-items: center;
   padding: 5%;
+  border-color: black;
+  border-style: solid;
+  border-width: 0.02cm;
+  height: 10px;
+  border-radius: 0.1cm;
 }

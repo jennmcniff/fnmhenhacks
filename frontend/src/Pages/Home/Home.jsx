@@ -1,5 +1,6 @@
 import Search from "../../Components/Search/Search";
 import View from "../../Components/View/View";
+import "./Home.css";
 import { useState, createContext } from "react";
 import { useEffect } from "react";
 
@@ -13,10 +14,18 @@ const Home = () => {
   }, []);
 
   return (
-    <QueryContext.Provider value={{ query, setQuery }}>
-      <Search />
-      <View />
-    </QueryContext.Provider>
+    <>
+      <QueryContext.Provider value={{ query, setQuery }}>
+        <div className="main">
+          <div className="search">
+            <Search />
+          </div>
+          <div className="view">
+            <View />
+          </div>
+        </div>
+      </QueryContext.Provider>
+    </>
   );
 };
 

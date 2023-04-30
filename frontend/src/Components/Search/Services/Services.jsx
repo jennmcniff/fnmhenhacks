@@ -29,7 +29,7 @@ const Services = () => {
     {
       label: (
         <Checkbox value="Credit Card" onChange={() => makeChange("cc")}>
-          Not Card
+          Card
         </Checkbox>
       ),
       key: "0",

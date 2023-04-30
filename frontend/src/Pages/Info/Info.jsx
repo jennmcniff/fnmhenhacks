@@ -1,8 +1,9 @@
 import ReactMarkdown from "react-markdown";
-import './Info.css'
+import { useEffect } from "react";
+import "./Info.css";
 
 const markdown = `
-# Financial Terms
+# Financial Literacy Cheat Sheet
 
 ### - Assets
 An asset is an owned belonging that can provide future
@@ -103,6 +104,9 @@ title as collateral.
 `;
 
 const Info = () => {
+  useEffect(() => {
+    document.title = "Info";
+  }, []);
   return (
     <div style={{ textAlign: "center" }} class="info">
       <div

@@ -39,7 +39,7 @@ const View = () => {
 
       const jsonData = await response.json();
 
-      setData(shuffle(jsonData).splice(0, 20));
+      setData(jsonData.splice(0, 20));
     };
 
     jData();

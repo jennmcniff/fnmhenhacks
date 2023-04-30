@@ -3,25 +3,29 @@ import { QueryContext } from "../../Pages/Home/Home";
 import AppCard from "./Card/Card";
 import "./View.css";
 
-const d = {
-  business_name: "RIVIERA FINANCE LLC",
-  trade_name: "RIVIERA FINANCE LLC",
-  business_activity: "FINANCE OR SMALL LOAN AGENCY",
-  address_1: "ROSEWOOD 28 DEER CIRCLE",
-  address_2: "",
-  city: "BEAR",
-  state: "DE",
-  zip: "19701",
-  country: "UNITED STATES",
-  location: {
-    latitude: 39.62742,
-    longitude: -75.6609,
-  },
-};
-
 const View = () => {
   const { query, _ } = useContext(QueryContext);
   const [data, setData] = useState([]);
+
+  function shuffle(array) {
+    let currentIndex = array.length,
+      randomIndex;
+
+    // While there remain elements to shuffle.
+    while (currentIndex != 0) {
+      // Pick a remaining element.
+      randomIndex = Math.floor(Math.random() * currentIndex);
+      currentIndex--;
+
+      // And swap it with the current element.
+      [array[currentIndex], array[randomIndex]] = [
+        array[randomIndex],
+        array[currentIndex],
+      ];
+    }
+
+    return array;
+  }
 
   useEffect(() => {
     const jData = async () => {
@@ -35,7 +39,7 @@ const View = () => {
 
       const jsonData = await response.json();
 
-      setData(jsonData);
+      setData(shuffle(jsonData).splice(0, 20));
     };
 
     jData();

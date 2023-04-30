@@ -23,25 +23,34 @@ const View = () => {
   const { query, _ } = useContext(QueryContext);
   const [data, setData] = useState({});
 
-  const getData = async (query) => {
-    const response = await fetch(
-      "/api/search?" +
-        new URLSearchParams({
-          name: query.name,
-          zip: query.zipcode,
-        })
-    ).then((response) => response.json());
-
-    return response;
-  };
-
   useEffect(() => {
-    const jsonData = getData(query);
-    setData(jsonData);
+    const jData = async () => {
+      const response = await fetch(
+        "/api/search?" +
+          new URLSearchParams({
+            name: query.name,
+            zip: query.zipcode,
+          })
+      );
+
+      const jsonData = await response.json();
+
+      setData(jsonData);
+    };
+
+    jData();
   }, [query]);
 
   useEffect(() => {
-    getData(query);
+    const jData = async () => {
+      const response = await fetch("/api/search");
+
+      const jsonData = await response.json();
+
+      setData(jsonData);
+    };
+
+    jData();
   }, []);
 
   useEffect(() => {
@@ -50,7 +59,9 @@ const View = () => {
 
   return (
     <div className="content">
-      <AppCard {...d} />
+      {data.map((d) => (
+        <AppCard {...d} />
+      ))}
     </div>
   );
 };

@@ -27,7 +27,7 @@ def main():
 
     def convert(data: dict[str, str]) -> dict[str, t.Any]:
         return {
-            "buisiness_name": data["Business name"],
+            "business_name": data["Business name"],
             "trade_name": data["Trade name"],
             "business_activity": data["Business Activity"],
             "address_1": data["Address 1"],

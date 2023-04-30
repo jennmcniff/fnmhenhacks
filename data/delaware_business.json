@@ -1,6 +1,6 @@
 [
     {
-        "buisiness_name": "RIVIERA FINANCE LLC",
+        "business_name": "RIVIERA FINANCE LLC",
         "trade_name": "RIVIERA FINANCE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "ROSEWOOD 28 DEER CIRCLE",
@@ -15,7 +15,7 @@
         }
     },
     {
-        "buisiness_name": "NCAS OF DELAWARE LLC",
+        "business_name": "NCAS OF DELAWARE LLC",
         "trade_name": "ADVANCE AMERICA 5421",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1659 PULASKI HWY # 14",
@@ -30,7 +30,7 @@
         }
     },
     {
-        "buisiness_name": "NATIONAL FINANCIAL",
+        "business_name": "NATIONAL FINANCIAL",
         "trade_name": "LOAN TILL PAYDAY",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1719 PULASKI HWY",
@@ -45,7 +45,7 @@
         }
     },
     {
-        "buisiness_name": "MARINER FINANCE LLC",
+        "business_name": "MARINER FINANCE LLC",
         "trade_name": "MARINER FINANCE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1831 PULASKI HWY",
@@ -60,7 +60,7 @@
         }
     },
     {
-        "buisiness_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "business_name": "ONEMAIN FINANCIAL GROUP LLC",
         "trade_name": "ONEMAIN FINANCIAL GROUP LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "24 FOXHUNT DR",
@@ -75,7 +75,7 @@
         }
     },
     {
-        "buisiness_name": "TYNE SUNDERLAND, LLC",
+        "business_name": "TYNE SUNDERLAND, LLC",
         "trade_name": "LIBERTY TAX & LOANS",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "413 EDEN CIR",
@@ -90,7 +90,7 @@
         }
     },
     {
-        "buisiness_name": "SCALESSA-FISCHER LLC",
+        "business_name": "SCALESSA-FISCHER LLC",
         "trade_name": "SCALESSA-FISCHER LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "772 PULASKI HWY",
@@ -102,7 +102,7 @@
         "location": {}
     },
     {
-        "buisiness_name": "DELAWARE TITLE LOANS INC",
+        "business_name": "DELAWARE TITLE LOANS INC",
         "trade_name": "DELAWARE TITLE LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "2431 PULASKI HWY",
@@ -117,7 +117,7 @@
         }
     },
     {
-        "buisiness_name": "EMG ACQUISITION CO OF DE LLC",
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
         "trade_name": "MINUTE LOAN CENTER",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "2693 PULASKI HWY",
@@ -132,7 +132,7 @@
         }
     },
     {
-        "buisiness_name": "JIGAR PATEL INC",
+        "business_name": "JIGAR PATEL INC",
         "trade_name": "JIGAR PATEL INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "52 SAVOY RD",
@@ -147,7 +147,7 @@
         }
     },
     {
-        "buisiness_name": "ALTER DOMUS INC",
+        "business_name": "ALTER DOMUS INC",
         "trade_name": "ALTER DOMUS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "619 NEW YORK AVE",
@@ -162,7 +162,7 @@
         }
     },
     {
-        "buisiness_name": "SOCIAL FINANCE INC",
+        "business_name": "SOCIAL FINANCE INC",
         "trade_name": "SOFI",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "650 NAAMANS RD STE 300",
@@ -177,7 +177,7 @@
         }
     },
     {
-        "buisiness_name": "NATIONAL FINANCIAL",
+        "business_name": "NATIONAL FINANCIAL",
         "trade_name": "LOAN TILL PAYDAY",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "2604 PHILADELPHIA PIKE STE 200",
@@ -192,7 +192,7 @@
         }
     },
     {
-        "buisiness_name": "HRB TAX GROUP INC",
+        "business_name": "HRB TAX GROUP INC",
         "trade_name": "H&R BLOCK",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "2616 PHILADELPHIA PIKE STE A",
@@ -207,7 +207,7 @@
         }
     },
     {
-        "buisiness_name": "NCAS OF DELAWARE LLC",
+        "business_name": "NCAS OF DELAWARE LLC",
         "trade_name": "ADVANCE AMERICA 4674",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "2720 PHILADELPHIA PIKE",
@@ -222,7 +222,7 @@
         }
     },
     {
-        "buisiness_name": "EASYDOLLAR LOANS, LLC",
+        "business_name": "EASYDOLLAR LOANS, LLC",
         "trade_name": "NORTHEASTERN TITLE LOANS",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "103 NAAMANS RD",
@@ -237,7 +237,7 @@
         }
     },
     {
-        "buisiness_name": "DELAWARE TITLE LOANS INC",
+        "business_name": "DELAWARE TITLE LOANS INC",
         "trade_name": "DELAWARE TITLE LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "115 NAAMANS RD",
@@ -252,7 +252,7 @@
         }
     },
     {
-        "buisiness_name": "EMG ACQUISITION CO OF DE LLC",
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
         "trade_name": "MINUTE LOAN CENTER",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "3603A PHILADELPHIA PIKE",
@@ -267,7 +267,7 @@
         }
     },
     {
-        "buisiness_name": "DEL BORRELLO FINANCIAL SVCS DE",
+        "business_name": "DEL BORRELLO FINANCIAL SVCS DE",
         "trade_name": "UNITED CHECK CASHING",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "3722 PHILADELPHIA PIKE",
@@ -282,7 +282,7 @@
         }
     },
     {
-        "buisiness_name": "AJM  FINANCIAL, LLC",
+        "business_name": "AJM  FINANCIAL, LLC",
         "trade_name": "AJM  FINANCIAL, LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "6 WINEBERRY DR RAMSEY RIDGE",
@@ -297,7 +297,7 @@
         }
     },
     {
-        "buisiness_name": "NATIONAL SECURITIES CORPORATION",
+        "business_name": "NATIONAL SECURITIES CORPORATION",
         "trade_name": "NATIONAL SECURITIES CORPORATION",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "720 YORKLYN RD STE 5",
@@ -312,7 +312,7 @@
         }
     },
     {
-        "buisiness_name": "GITAHAR SERIES LLC",
+        "business_name": "GITAHAR SERIES LLC",
         "trade_name": "GITAHAR SERIES LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1265 MADISON LN",
@@ -327,7 +327,7 @@
         }
     },
     {
-        "buisiness_name": "NATIONAL FINANCIAL",
+        "business_name": "NATIONAL FINANCIAL",
         "trade_name": "NATIONAL FINANCIAL",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "403 E MAIN ST",
@@ -342,7 +342,7 @@
         }
     },
     {
-        "buisiness_name": "EFFICIENT FRONTIER GROUP",
+        "business_name": "EFFICIENT FRONTIER GROUP",
         "trade_name": "EFFICIENT FRONTIER GROUP",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "26 MORNING DEW DR",
@@ -357,7 +357,7 @@
         }
     },
     {
-        "buisiness_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "business_name": "ONEMAIN FINANCIAL GROUP LLC",
         "trade_name": "ONEMAIN FINANCIAL GROUP LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "420 SUBURBAN DR",
@@ -372,7 +372,7 @@
         }
     },
     {
-        "buisiness_name": "EZ LOANS INC",
+        "business_name": "EZ LOANS INC",
         "trade_name": "EZ LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "402 SUBURBAN DR",
@@ -387,7 +387,7 @@
         }
     },
     {
-        "buisiness_name": "DELAWARE FINANCIAL CAPITAL CORP",
+        "business_name": "DELAWARE FINANCIAL CAPITAL CORP",
         "trade_name": "DELAWARE FINANCIAL CAPITAL CORP",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "22 POLLY DRUMMOND HILL RD",
@@ -402,7 +402,7 @@
         }
     },
     {
-        "buisiness_name": "ELLEN G SHACKELFORD",
+        "business_name": "ELLEN G SHACKELFORD",
         "trade_name": "ELLEN SHACKELFORD TAX PREP",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "31 ARIZONA STATE DR",
@@ -417,7 +417,7 @@
         }
     },
     {
-        "buisiness_name": "NCAS OF DELAWARE LLC",
+        "business_name": "NCAS OF DELAWARE LLC",
         "trade_name": "ADVANCE AMERICA  5416",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "8 CHESMAR PLZ",
@@ -432,7 +432,7 @@
         }
     },
     {
-        "buisiness_name": "EASTERN SPECIALTY FINANCE INC",
+        "business_name": "EASTERN SPECIALTY FINANCE INC",
         "trade_name": "CHECK-N-GO",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "27 CHESTNUT HILL PLZ",
@@ -447,7 +447,7 @@
         }
     },
     {
-        "buisiness_name": "DIAMOND STATE CREDIT SERVICES",
+        "business_name": "DIAMOND STATE CREDIT SERVICES",
         "trade_name": "DIAMOND STATE CREDIT SERVICES",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1 CHESTNUT HILL PLZ # 1148",
@@ -462,7 +462,7 @@
         }
     },
     {
-        "buisiness_name": "NATIONAL FINANCIAL",
+        "business_name": "NATIONAL FINANCIAL",
         "trade_name": "LOAN TILL PAYDAY",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "14 MARROWS RD",
@@ -477,7 +477,7 @@
         }
     },
     {
-        "buisiness_name": "SLM CORPORATION",
+        "business_name": "SLM CORPORATION",
         "trade_name": "SLM CORPORATION",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "300 CONTINENTAL DR FL 1",
@@ -492,7 +492,7 @@
         }
     },
     {
-        "buisiness_name": "PHILIP J LOWE",
+        "business_name": "PHILIP J LOWE",
         "trade_name": "PHILIP J LOWE",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "121 CONTINENTAL DR STE 109",
@@ -507,7 +507,7 @@
         }
     },
     {
-        "buisiness_name": "CALIBER HOME LOANS INC",
+        "business_name": "CALIBER HOME LOANS INC",
         "trade_name": "CALIBER HOME LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "200 CONTINENTAL DR STE 201",
@@ -522,7 +522,7 @@
         }
     },
     {
-        "buisiness_name": "TJC MORTGAGE INC.",
+        "business_name": "TJC MORTGAGE INC.",
         "trade_name": "MORTGAGERIGHT",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "200 CONTINENTAL DR STE 401",
@@ -537,7 +537,7 @@
         }
     },
     {
-        "buisiness_name": "MOVEMENT MORTGAGE LLC",
+        "business_name": "MOVEMENT MORTGAGE LLC",
         "trade_name": "MOVEMENT MORTGAGE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "200 CONTINENTAL DR STE 401",
@@ -552,7 +552,7 @@
         }
     },
     {
-        "buisiness_name": "EZ LOANS INC",
+        "business_name": "EZ LOANS INC",
         "trade_name": "EZ LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "ROUTE 273 & APPLEBY RD UNIT 5",
@@ -567,7 +567,7 @@
         }
     },
     {
-        "buisiness_name": "NATIONAL FINANCIAL",
+        "business_name": "NATIONAL FINANCIAL",
         "trade_name": "NATIONAL FINANCIAL",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1511 N DUPONT HWY STE 11",
@@ -582,7 +582,7 @@
         }
     },
     {
-        "buisiness_name": "EASYDOLLAR LOANS, LLC",
+        "business_name": "EASYDOLLAR LOANS, LLC",
         "trade_name": "LOANMAX",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1517 N DUPONT HWY",
@@ -597,7 +597,7 @@
         }
     },
     {
-        "buisiness_name": "EASYDOLLAR LOANS, LLC",
+        "business_name": "EASYDOLLAR LOANS, LLC",
         "trade_name": "NORTHEASTERN TITLE LOANS",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1502 N DUPONT HWY",
@@ -612,7 +612,7 @@
         }
     },
     {
-        "buisiness_name": "M&T AUTO GROUP LLC",
+        "business_name": "M&T AUTO GROUP LLC",
         "trade_name": "NEW CASTLE MOTORS",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "234 S DUPONT HWY",
@@ -627,7 +627,7 @@
         }
     },
     {
-        "buisiness_name": "NCAS OF DELAWARE LLC",
+        "business_name": "NCAS OF DELAWARE LLC",
         "trade_name": "ADVANCE AMERICA  5467",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "527 E BASIN RD",
@@ -642,7 +642,7 @@
         }
     },
     {
-        "buisiness_name": "EMG ACQUISITION CO OF DE LLC",
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
         "trade_name": "MINUTE LOAN CENTER",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "321 S DUPONT HWY",
@@ -654,7 +654,7 @@
         "location": {}
     },
     {
-        "buisiness_name": "DELAWARE TITLE LOANS INC",
+        "business_name": "DELAWARE TITLE LOANS INC",
         "trade_name": "DELAWARE TITLE LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "505 N DUPONT HWY",
@@ -669,7 +669,7 @@
         }
     },
     {
-        "buisiness_name": "EASTERN SPECIALTY FINANCE INC",
+        "business_name": "EASTERN SPECIALTY FINANCE INC",
         "trade_name": "CHECK-N-GO",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1504 BEAVER BROOK PLZ",
@@ -684,7 +684,7 @@
         }
     },
     {
-        "buisiness_name": "LOVETT LENDERS",
+        "business_name": "LOVETT LENDERS",
         "trade_name": "LOVETT LENDERS LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "34 MILLRACE LN",
@@ -699,7 +699,7 @@
         }
     },
     {
-        "buisiness_name": "CHERYL  MILLER",
+        "business_name": "CHERYL  MILLER",
         "trade_name": "CDV ACCOUNTING",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "115 SYCAMORE LN",
@@ -714,7 +714,7 @@
         }
     },
     {
-        "buisiness_name": "FAIR SQUARE FINANCIAL LLC",
+        "business_name": "FAIR SQUARE FINANCIAL LLC",
         "trade_name": "FAIR SQUARE FINANCIAL LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1000 N WEST ST FL 11",
@@ -729,7 +729,7 @@
         }
     },
     {
-        "buisiness_name": "2262011 ONTARIO HOLDINGS INC",
+        "business_name": "2262011 ONTARIO HOLDINGS INC",
         "trade_name": "MONEYKEY",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1000 N WEST ST STE 1200",
@@ -744,7 +744,7 @@
         }
     },
     {
-        "buisiness_name": "BERONE CAPITAL",
+        "business_name": "BERONE CAPITAL",
         "trade_name": "BERONE CAPITAL",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1201 N MARKET ST STE 111",
@@ -759,7 +759,7 @@
         }
     },
     {
-        "buisiness_name": "EASTERN SPECIALTY FINANCE INC",
+        "business_name": "EASTERN SPECIALTY FINANCE INC",
         "trade_name": "CHECK-N-GO",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "800 W 4TH ST STE 401",
@@ -774,7 +774,7 @@
         }
     },
     {
-        "buisiness_name": "VEERY CAPITAL LLC",
+        "business_name": "VEERY CAPITAL LLC",
         "trade_name": "",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1 AVE OF THE ARTS STE 1",
@@ -789,7 +789,7 @@
         }
     },
     {
-        "buisiness_name": "NCAS OF DELAWARE LLC",
+        "business_name": "NCAS OF DELAWARE LLC",
         "trade_name": "ADVANCE AMERICA",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "750 SHIPYARD DR STE 300",
@@ -804,7 +804,7 @@
         }
     },
     {
-        "buisiness_name": "RKL FINANCIAL CORPORATION",
+        "business_name": "RKL FINANCIAL CORPORATION",
         "trade_name": "RKL FINANCIAL CORPORATION",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "123 S JUSTISON ST STE 300",
@@ -819,7 +819,7 @@
         }
     },
     {
-        "buisiness_name": "NAVIENT CORPORATION",
+        "business_name": "NAVIENT CORPORATION",
         "trade_name": "NAVIENT CORPORATION",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "123 S JUSTISON ST STE 300",
@@ -834,7 +834,7 @@
         }
     },
     {
-        "buisiness_name": "DELAWARE FINANCE COMPANY LLC",
+        "business_name": "DELAWARE FINANCE COMPANY LLC",
         "trade_name": "DELAWARE FINANCE COMPANY LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "3601 N MARKET ST",
@@ -849,7 +849,7 @@
         }
     },
     {
-        "buisiness_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "business_name": "ONEMAIN FINANCIAL GROUP LLC",
         "trade_name": "ONEMAIN FINANCIAL GROUP LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "4325 CONCORD PIKE",
@@ -864,7 +864,7 @@
         }
     },
     {
-        "buisiness_name": "EMG ACQUISITION CO OF DE LLC",
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
         "trade_name": "MINUTE LOAN CENTER",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "2501 CONCORD PIKE",
@@ -879,7 +879,7 @@
         }
     },
     {
-        "buisiness_name": "DELAWARE TITLE LOANS INC",
+        "business_name": "DELAWARE TITLE LOANS INC",
         "trade_name": "DELAWARE TITLE LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "3300 CONCORD PIKE STE 1",
@@ -894,7 +894,7 @@
         }
     },
     {
-        "buisiness_name": "EASYDOLLAR LOANS, LLC",
+        "business_name": "EASYDOLLAR LOANS, LLC",
         "trade_name": "NORTHEASTERN TITLE LOANS",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "2900 CONCORD PIKE",
@@ -909,7 +909,7 @@
         }
     },
     {
-        "buisiness_name": "NATIONAL FINANCIAL",
+        "business_name": "NATIONAL FINANCIAL",
         "trade_name": "LOAN TILL PAYDAY",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "109 N MARYLAND AVE",
@@ -924,7 +924,7 @@
         }
     },
     {
-        "buisiness_name": "EZ LOANS INC",
+        "business_name": "EZ LOANS INC",
         "trade_name": "EZ LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1630 E NEWPORT PIKE STE 13A",
@@ -939,7 +939,7 @@
         }
     },
     {
-        "buisiness_name": "NATIONAL FINANCIAL",
+        "business_name": "NATIONAL FINANCIAL",
         "trade_name": "LOAN TILL PAYDAY",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1935 W 4TH ST",
@@ -954,7 +954,7 @@
         }
     },
     {
-        "buisiness_name": "DELAWARE TITLE LOANS INC",
+        "business_name": "DELAWARE TITLE LOANS INC",
         "trade_name": "DELAWARE TITLE LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "707 S UNION ST UNIT A2",
@@ -969,7 +969,7 @@
         }
     },
     {
-        "buisiness_name": "MILLENNIUM LOAN FUND III, LLC",
+        "business_name": "MILLENNIUM LOAN FUND III, LLC",
         "trade_name": "MILLENNIUM LOAN FUND III, LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "62 ROCKFORD RD STE 10",
@@ -984,7 +984,7 @@
         }
     },
     {
-        "buisiness_name": "MILLENIUM LOAN FUND LLC",
+        "business_name": "MILLENIUM LOAN FUND LLC",
         "trade_name": "MILLENIUM LOAN FUND LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "62 ROCKFORD RD",
@@ -999,7 +999,7 @@
         }
     },
     {
-        "buisiness_name": "MILLENNIUM LOAN FUND II, LLC",
+        "business_name": "MILLENNIUM LOAN FUND II, LLC",
         "trade_name": "MILLENNIUM LOAN FUND II, LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "62 ROCKFORD RD STE 10",
@@ -1014,7 +1014,7 @@
         }
     },
     {
-        "buisiness_name": "EMBRACE HOME LOANS INC",
+        "business_name": "EMBRACE HOME LOANS INC",
         "trade_name": "EMBRACE HOME LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "5341 LIMESTONE RD",
@@ -1029,7 +1029,7 @@
         }
     },
     {
-        "buisiness_name": "SAND FINANCIAL SERIES LLC",
+        "business_name": "SAND FINANCIAL SERIES LLC",
         "trade_name": "SAND FINANCIAL SERIES LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "503 CHARIOT CT",
@@ -1044,7 +1044,7 @@
         }
     },
     {
-        "buisiness_name": "ROYAL BANK OF CANADA",
+        "business_name": "ROYAL BANK OF CANADA",
         "trade_name": "ROYAL BANK OF CANADA",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "2751 CENTERVILLE RD STE 212",
@@ -1059,7 +1059,7 @@
         }
     },
     {
-        "buisiness_name": "ARDEN TRUST COMPANY",
+        "business_name": "ARDEN TRUST COMPANY",
         "trade_name": "ARDEN TRUST COMPANY",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "2751 CENTERVILLE RD STE 400",
@@ -1074,7 +1074,7 @@
         }
     },
     {
-        "buisiness_name": "NORTHPOINTE BANCSHARES INC",
+        "business_name": "NORTHPOINTE BANCSHARES INC",
         "trade_name": "NORTHPOINTE BANK",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "5560B KIRKWOOD HWY",
@@ -1089,7 +1089,7 @@
         }
     },
     {
-        "buisiness_name": "EASTERN SPECIALTY FINANCE INC",
+        "business_name": "EASTERN SPECIALTY FINANCE INC",
         "trade_name": "CHECK-N-GO",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "3843 KIRKWOOD HWY",
@@ -1104,7 +1104,7 @@
         }
     },
     {
-        "buisiness_name": "MARINER FINANCE LLC",
+        "business_name": "MARINER FINANCE LLC",
         "trade_name": "MARINER FINANCE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "3616 KIRKWOOD HWY STE D",
@@ -1119,7 +1119,7 @@
         }
     },
     {
-        "buisiness_name": "EMG ACQUISITION CO OF DE LLC",
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
         "trade_name": "MINUTE LOAN CENTER",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "3210 KIRKWOOD HWY",
@@ -1134,7 +1134,7 @@
         }
     },
     {
-        "buisiness_name": "H C A C LLC",
+        "business_name": "H C A C LLC",
         "trade_name": "H C A C LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "3400 KIRKWOOD HWY STE B",
@@ -1149,7 +1149,7 @@
         }
     },
     {
-        "buisiness_name": "UMB DELAWARE INC",
+        "business_name": "UMB DELAWARE INC",
         "trade_name": "UMB DELAWARE INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "405 SILVERSIDE RD STE 101",
@@ -1164,7 +1164,7 @@
         }
     },
     {
-        "buisiness_name": "UMB BANK NA",
+        "business_name": "UMB BANK NA",
         "trade_name": "UMB BANK NA",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "405 SILVERSIDE RD STE 101",
@@ -1179,7 +1179,7 @@
         }
     },
     {
-        "buisiness_name": "DYLAN  AMOROSO",
+        "business_name": "DYLAN  AMOROSO",
         "trade_name": "BRANDYWINE HUNDRED ADVISORS",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1309 VEALE RD STE 10",
@@ -1194,7 +1194,7 @@
         }
     },
     {
-        "buisiness_name": "MARLETTE FUNDING LLC",
+        "business_name": "MARLETTE FUNDING LLC",
         "trade_name": "BEST EGG",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "3419 SILVERSIDE RD",
@@ -1209,7 +1209,7 @@
         }
     },
     {
-        "buisiness_name": "MARLETTE SERVICING LLC",
+        "business_name": "MARLETTE SERVICING LLC",
         "trade_name": "MARLETTE SERVICING LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "3419 SILVERSIDE RD",
@@ -1224,7 +1224,7 @@
         }
     },
     {
-        "buisiness_name": "PSCU FINANCIAL SERVICES, INC",
+        "business_name": "PSCU FINANCIAL SERVICES, INC",
         "trade_name": "PSCU FINANCIAL SERVICES, INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "3411 SILVERSIDE RD",
@@ -1239,7 +1239,7 @@
         }
     },
     {
-        "buisiness_name": "WTNA",
+        "business_name": "WTNA",
         "trade_name": "WTNA",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1100 N MARKET ST LBBY",
@@ -1254,7 +1254,7 @@
         }
     },
     {
-        "buisiness_name": "EZ CASH OF DELAWARE INC",
+        "business_name": "EZ CASH OF DELAWARE INC",
         "trade_name": "EZ CASH OF DELAWARE INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "GATEWAY SOUTH BLVD STE 230",
@@ -1269,7 +1269,7 @@
         }
     },
     {
-        "buisiness_name": "NATIONAL BENEFIT SERVICES LLC",
+        "business_name": "NATIONAL BENEFIT SERVICES LLC",
         "trade_name": "NATIONAL BENEFIT SERVICES LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "8 THE GRN STE R",
@@ -1284,7 +1284,7 @@
         }
     },
     {
-        "buisiness_name": "MARINER FINANCE LLC",
+        "business_name": "MARINER FINANCE LLC",
         "trade_name": "MARINER FINANCE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "222 S DUPONT HWY STE 206",
@@ -1299,7 +1299,7 @@
         }
     },
     {
-        "buisiness_name": "NORTHPOINTE BANCSHARES INC",
+        "business_name": "NORTHPOINTE BANCSHARES INC",
         "trade_name": "NORTHPOINTE BANK",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "800 N STATE ST STE 202&302",
@@ -1314,7 +1314,7 @@
         }
     },
     {
-        "buisiness_name": "EMG ACQUISITION CO OF DE LLC",
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
         "trade_name": "MINUTE LOAN CENTER",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "510 N DUPONT HWY",
@@ -1329,7 +1329,7 @@
         }
     },
     {
-        "buisiness_name": "EASYDOLLAR LOANS, LLC",
+        "business_name": "EASYDOLLAR LOANS, LLC",
         "trade_name": "NORTHEASTERN TITLE LOANS",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "105 N DUPONT HWY",
@@ -1344,7 +1344,7 @@
         }
     },
     {
-        "buisiness_name": "NATIONAL FINANCIAL",
+        "business_name": "NATIONAL FINANCIAL",
         "trade_name": "NATIONAL FINANCIAL",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "178A N DUPONT HWY STE A",
@@ -1359,7 +1359,7 @@
         }
     },
     {
-        "buisiness_name": "TRI-STATE AUTO OUTLET INC",
+        "business_name": "TRI-STATE AUTO OUTLET INC",
         "trade_name": "CAR ZONE",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1041 S DUPONT HWY",
@@ -1374,7 +1374,7 @@
         }
     },
     {
-        "buisiness_name": "NCAS OF DELAWARE LLC",
+        "business_name": "NCAS OF DELAWARE LLC",
         "trade_name": "ADVANCE AMERICA  5417",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "264 S DUPONT HWY",
@@ -1389,7 +1389,7 @@
         }
     },
     {
-        "buisiness_name": "DELAWARE TITLE LOANS INC",
+        "business_name": "DELAWARE TITLE LOANS INC",
         "trade_name": "DELAWARE TITLE LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "260 S DUPONT HWY",
@@ -1404,7 +1404,7 @@
         }
     },
     {
-        "buisiness_name": "MOVEMENT MORTGAGE LLC",
+        "business_name": "MOVEMENT MORTGAGE LLC",
         "trade_name": "MOVEMENT MORTGAGE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1675 S STATE ST STE 4AC",
@@ -1419,7 +1419,7 @@
         }
     },
     {
-        "buisiness_name": "HILL FINANCIAL SOLUTIONS LLC",
+        "business_name": "HILL FINANCIAL SOLUTIONS LLC",
         "trade_name": "HILL FINANCIAL SOLUTIONS LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "2145 S DUPONT HWY STE 3",
@@ -1434,7 +1434,7 @@
         }
     },
     {
-        "buisiness_name": "EASTERN SPECIALTY FINANCE INC",
+        "business_name": "EASTERN SPECIALTY FINANCE INC",
         "trade_name": "CHECK-N-GO",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "283 N DUPONT HWY STE B",
@@ -1449,7 +1449,7 @@
         }
     },
     {
-        "buisiness_name": "EZ CASH OF DELAWARE INC",
+        "business_name": "EZ CASH OF DELAWARE INC",
         "trade_name": "EZ CASH OF DELAWARE INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1030 FORREST AVE STE 122",
@@ -1464,7 +1464,7 @@
         }
     },
     {
-        "buisiness_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "business_name": "ONEMAIN FINANCIAL GROUP LLC",
         "trade_name": "ONEMAIN FINANCIAL GROUP LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1001 S BRADFORD ST STE 4",
@@ -1479,7 +1479,7 @@
         }
     },
     {
-        "buisiness_name": "BFO INVESTMENTS LLC",
+        "business_name": "BFO INVESTMENTS LLC",
         "trade_name": "BFO INVESTMENTS LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1111B S GOVERNORS AVE",
@@ -1494,7 +1494,7 @@
         }
     },
     {
-        "buisiness_name": "SHORE FINANCE LLC",
+        "business_name": "SHORE FINANCE LLC",
         "trade_name": "SHORE FINANCE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1650 S GOVERNORS AVE",
@@ -1509,7 +1509,7 @@
         }
     },
     {
-        "buisiness_name": "SHORE FINANCE LLC",
+        "business_name": "SHORE FINANCE LLC",
         "trade_name": "SHORE FINANCE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "71 GREENTREE DR",
@@ -1524,7 +1524,7 @@
         }
     },
     {
-        "buisiness_name": "KERCHNER RONALD",
+        "business_name": "KERCHNER RONALD",
         "trade_name": "CHURCH BOOKKEEPING SERVICES LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "2703 ROUND ROBIN WAY",
@@ -1539,7 +1539,7 @@
         }
     },
     {
-        "buisiness_name": "NATIONAL FINANCIAL",
+        "business_name": "NATIONAL FINANCIAL",
         "trade_name": "NATIONAL FINANCIAL",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "9537 BRIDGEVILLE CTR UNIT 4",
@@ -1554,7 +1554,7 @@
         }
     },
     {
-        "buisiness_name": "EASTERN SPECIALTY FINANCE INC",
+        "business_name": "EASTERN SPECIALTY FINANCE INC",
         "trade_name": "CHECK-N-GO",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "374 WALMART DR STE 3",
@@ -1569,7 +1569,7 @@
         }
     },
     {
-        "buisiness_name": "ATLANTIC FINANCIALS LLC",
+        "business_name": "ATLANTIC FINANCIALS LLC",
         "trade_name": "ATLANTIC FINANCIALS LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "30028 VINES CREEK RD",
@@ -1584,7 +1584,7 @@
         }
     },
     {
-        "buisiness_name": "NATIONAL FINANCIAL",
+        "business_name": "NATIONAL FINANCIAL",
         "trade_name": "NATIONAL FINANCIAL",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "500 N BI STATE BLVD",
@@ -1599,7 +1599,7 @@
         }
     },
     {
-        "buisiness_name": "EZ CASH OF DELAWARE INC",
+        "business_name": "EZ CASH OF DELAWARE INC",
         "trade_name": "EZ CASH OF DELAWARE INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "300 N BI STATE BLVD STE 2",
@@ -1614,7 +1614,7 @@
         }
     },
     {
-        "buisiness_name": "NORVAL LENDING",
+        "business_name": "NORVAL LENDING",
         "trade_name": "NORVAL LENDING",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "10977 STATE ST UNIT 6",
@@ -1629,7 +1629,7 @@
         }
     },
     {
-        "buisiness_name": "SHORE FINANCE LLC",
+        "business_name": "SHORE FINANCE LLC",
         "trade_name": "SHORE FINANCE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "10977 STATE ST UNIT 3",
@@ -1644,7 +1644,7 @@
         }
     },
     {
-        "buisiness_name": "DELMARVA MOTORS ACCEPTANCE CORP",
+        "business_name": "DELMARVA MOTORS ACCEPTANCE CORP",
         "trade_name": "DELMARVA MOTORS ACCEPTANCE CORP",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "10977 STATE ST UNIT 6",
@@ -1659,7 +1659,7 @@
         }
     },
     {
-        "buisiness_name": "EASYDOLLAR LOANS, LLC",
+        "business_name": "EASYDOLLAR LOANS, LLC",
         "trade_name": "NORTHEASTERN TITLE LOANS",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "38650 SUSSEX HWY UNIT 10",
@@ -1674,7 +1674,7 @@
         }
     },
     {
-        "buisiness_name": "EZ LOANS INC",
+        "business_name": "EZ LOANS INC",
         "trade_name": "EZ LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "38613 BENRO DR UNIT 7",
@@ -1689,7 +1689,7 @@
         }
     },
     {
-        "buisiness_name": "NCAS OF DELAWARE LLC",
+        "business_name": "NCAS OF DELAWARE LLC",
         "trade_name": "ADVANCE AMERICA  5419",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "27 GEORGETOWN PLZ",
@@ -1704,7 +1704,7 @@
         }
     },
     {
-        "buisiness_name": "PNC BANK NA",
+        "business_name": "PNC BANK NA",
         "trade_name": "PNC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "20915 DUPONT BLVD P O BOX 823",
@@ -1719,7 +1719,7 @@
         }
     },
     {
-        "buisiness_name": "HRB TAX GROUP INC",
+        "business_name": "HRB TAX GROUP INC",
         "trade_name": "H&R BLOCK",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "21305 BERLIN RD",
@@ -1734,7 +1734,7 @@
         }
     },
     {
-        "buisiness_name": "EZ CASH OF DELAWARE INC",
+        "business_name": "EZ CASH OF DELAWARE INC",
         "trade_name": "EZ CASH OF DELAWARE INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "21305 BERLIN RD UNIT 3",
@@ -1749,7 +1749,7 @@
         }
     },
     {
-        "buisiness_name": "EZ LOANS INC",
+        "business_name": "EZ LOANS INC",
         "trade_name": "EZ LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "UNIT 5 RT 13 LIBERTY PLAZA",
@@ -1764,7 +1764,7 @@
         }
     },
     {
-        "buisiness_name": "AMERICAN FINANCE LLC",
+        "business_name": "AMERICAN FINANCE LLC",
         "trade_name": "AMERICAN FINANCE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "17507 S DUPONT HWY",
@@ -1779,7 +1779,7 @@
         }
     },
     {
-        "buisiness_name": "WALKER & DUNLOP INVESTMENT PARTN",
+        "business_name": "WALKER & DUNLOP INVESTMENT PARTN",
         "trade_name": "WALKER & DUNLOP INVESTMENT PARTN",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "135 2ND ST FL 2",
@@ -1794,7 +1794,7 @@
         }
     },
     {
-        "buisiness_name": "MOVEMENT MORTGAGE LLC",
+        "business_name": "MOVEMENT MORTGAGE LLC",
         "trade_name": "MOVEMENT MORTGAGE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "18297 COASTAL HWY UNIT B",
@@ -1809,7 +1809,7 @@
         }
     },
     {
-        "buisiness_name": "DELAWARE TITLE LOANS INC",
+        "business_name": "DELAWARE TITLE LOANS INC",
         "trade_name": "DELAWARE TITLE LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "17672 COASTAL HWY",
@@ -1824,7 +1824,7 @@
         }
     },
     {
-        "buisiness_name": "PNC BANK NA",
+        "business_name": "PNC BANK NA",
         "trade_name": "",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "655 N DUPONT BLVD",
@@ -1839,7 +1839,7 @@
         }
     },
     {
-        "buisiness_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "business_name": "ONEMAIN FINANCIAL GROUP LLC",
         "trade_name": "ONEMAIN FINANCIAL GROUP LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "660 N DUPONT BLVD",
@@ -1854,7 +1854,7 @@
         }
     },
     {
-        "buisiness_name": "SHORE FINANCE LLC",
+        "business_name": "SHORE FINANCE LLC",
         "trade_name": "SHORE FINANCE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "927 N DUPONT BLVD",
@@ -1869,7 +1869,7 @@
         }
     },
     {
-        "buisiness_name": "EMG ACQUISITION CO OF DE LLC",
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
         "trade_name": "MINUTE LOAN CENTER",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "945 N DUPONT BLVD STE C",
@@ -1884,7 +1884,7 @@
         }
     },
     {
-        "buisiness_name": "NCAS OF DELAWARE LLC",
+        "business_name": "NCAS OF DELAWARE LLC",
         "trade_name": "ADVANCE AMERICA  5418",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "941 N DUPONT BLVD STE J",
@@ -1899,7 +1899,7 @@
         }
     },
     {
-        "buisiness_name": "NATIONAL FINANCIAL",
+        "business_name": "NATIONAL FINANCIAL",
         "trade_name": "NATIONAL FINANCIAL",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "1051 N WALNUT ST SPC 10",
@@ -1914,7 +1914,7 @@
         }
     },
     {
-        "buisiness_name": "MARINER FINANCE LLC",
+        "business_name": "MARINER FINANCE LLC",
         "trade_name": "MARINER FINANCE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "28263 LEXUS DR UNIT 3",
@@ -1929,7 +1929,7 @@
         }
     },
     {
-        "buisiness_name": "HRB TAX GROUP INC",
+        "business_name": "HRB TAX GROUP INC",
         "trade_name": "H&R BLOCK",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "28417 DUPONT BLVD UNIT 4",
@@ -1944,7 +1944,7 @@
         }
     },
     {
-        "buisiness_name": "SHORE FINANCE LLC",
+        "business_name": "SHORE FINANCE LLC",
         "trade_name": "SHORE FINANCE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "400 DELAWARE AVE",
@@ -1959,7 +1959,7 @@
         }
     },
     {
-        "buisiness_name": "NATIONAL FINANCIAL",
+        "business_name": "NATIONAL FINANCIAL",
         "trade_name": "NATIONAL FINANCIAL",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "123 E DUPONT HWY",
@@ -1974,7 +1974,7 @@
         }
     },
     {
-        "buisiness_name": "EMG ACQUISITION CO OF DE LLC",
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
         "trade_name": "MINUTE LOAN CENTER",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "26670 CENTERVIEW DR UNIT B",
@@ -1989,7 +1989,7 @@
         }
     },
     {
-        "buisiness_name": "EZ LOANS INC",
+        "business_name": "EZ LOANS INC",
         "trade_name": "EZ LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "28544 DUPONT BLVD",
@@ -2004,7 +2004,7 @@
         }
     },
     {
-        "buisiness_name": "MB ADVISORS CPA OF DE PA",
+        "business_name": "MB ADVISORS CPA OF DE PA",
         "trade_name": "MB ADVISORS CPA OF DE PA",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "PO BOX 154",
@@ -2019,7 +2019,7 @@
         }
     },
     {
-        "buisiness_name": "NORTHPOINTE BANCSHARES INC",
+        "business_name": "NORTHPOINTE BANCSHARES INC",
         "trade_name": "NORTHPOINTE BANK",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "19606 COASTAL HIGHWAY",
@@ -2034,7 +2034,7 @@
         }
     },
     {
-        "buisiness_name": "WATERSTONE MORTGAGE CORPORATION",
+        "business_name": "WATERSTONE MORTGAGE CORPORATION",
         "trade_name": "WATERSTONE MORTGAGE CORPORATION",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "330 REHOBOTH AVE STE B",
@@ -2049,7 +2049,7 @@
         }
     },
     {
-        "buisiness_name": "BELL ROCK CAPITAL LLC",
+        "business_name": "BELL ROCK CAPITAL LLC",
         "trade_name": "BELL ROCK CAPITAL LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "35568 AIRPORT RD",
@@ -2064,7 +2064,7 @@
         }
     },
     {
-        "buisiness_name": "COASTAL ASSET MANAGEMENT CO",
+        "business_name": "COASTAL ASSET MANAGEMENT CO",
         "trade_name": "COASTAL ASSET MANAGEMENT CO",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "35568 AIRPORT RD",
@@ -2079,7 +2079,7 @@
         }
     },
     {
-        "buisiness_name": "EMG ACQUISITION CO OF DE LLC",
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
         "trade_name": "MINUTE LOAN CENTER",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "19470 COASTAL HWY UNIT 4",
@@ -2094,7 +2094,7 @@
         }
     },
     {
-        "buisiness_name": "PRIMELENDING, A PLAINSCAPITAL CO",
+        "business_name": "PRIMELENDING, A PLAINSCAPITAL CO",
         "trade_name": "PRIMELENDING, A PLAINSCAPITAL CO",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "20336 COASTAL HWY",
@@ -2109,7 +2109,7 @@
         }
     },
     {
-        "buisiness_name": "EMBRACE HOME LOANS INC",
+        "business_name": "EMBRACE HOME LOANS INC",
         "trade_name": "EMBRACE HOME LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "50 CASCADE LN",
@@ -2124,7 +2124,7 @@
         }
     },
     {
-        "buisiness_name": "MOVEMENT MORTGAGE LLC",
+        "business_name": "MOVEMENT MORTGAGE LLC",
         "trade_name": "MOVEMENT MORTGAGE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "312 E STEIN HWY",
@@ -2139,7 +2139,7 @@
         }
     },
     {
-        "buisiness_name": "EMG ACQUISITION CO OF DE LLC",
+        "business_name": "EMG ACQUISITION CO OF DE LLC",
         "trade_name": "MINUTE LOAN CENTER",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "855 NORMAN ESKRIDGE HWY",
@@ -2154,7 +2154,7 @@
         }
     },
     {
-        "buisiness_name": "EZ LOANS INC",
+        "business_name": "EZ LOANS INC",
         "trade_name": "EZ LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "900 NORMAN ESKRIDGE HWY UNIT 70",
@@ -2169,7 +2169,7 @@
         }
     },
     {
-        "buisiness_name": "PROFESSIONAL LEASING INC",
+        "business_name": "PROFESSIONAL LEASING INC",
         "trade_name": "P L P FINANCIAL",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "740 SUSSEX AVE",
@@ -2184,7 +2184,7 @@
         }
     },
     {
-        "buisiness_name": "EASYDOLLAR LOANS, LLC",
+        "business_name": "EASYDOLLAR LOANS, LLC",
         "trade_name": "NORTHEASTERN TITLE LOANS",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "24504 SUSSEX HWY",
@@ -2199,7 +2199,7 @@
         }
     },
     {
-        "buisiness_name": "HRB TAX GROUP INC",
+        "business_name": "HRB TAX GROUP INC",
         "trade_name": "H&R BLOCK",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "22946 SUSSEX HWY",
@@ -2214,7 +2214,7 @@
         }
     },
     {
-        "buisiness_name": "DELAWARE TITLE LOANS INC",
+        "business_name": "DELAWARE TITLE LOANS INC",
         "trade_name": "DELAWARE TITLE LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "22994 SUSSEX HWY",
@@ -2229,7 +2229,7 @@
         }
     },
     {
-        "buisiness_name": "ONEMAIN FINANCIAL GROUP LLC",
+        "business_name": "ONEMAIN FINANCIAL GROUP LLC",
         "trade_name": "ONEMAIN FINANCIAL GROUP LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "22974 SUSSEX HWY",
@@ -2244,7 +2244,7 @@
         }
     },
     {
-        "buisiness_name": "MARINER FINANCE LLC",
+        "business_name": "MARINER FINANCE LLC",
         "trade_name": "MARINER FINANCE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "22826 SUSSEX HWY",
@@ -2259,7 +2259,7 @@
         }
     },
     {
-        "buisiness_name": "NCAS OF DELAWARE LLC",
+        "business_name": "NCAS OF DELAWARE LLC",
         "trade_name": "ADVANCE AMERICA",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "22828 SUSSEX HWY",
@@ -2274,7 +2274,7 @@
         }
     },
     {
-        "buisiness_name": "NATIONAL FINANCIAL",
+        "business_name": "NATIONAL FINANCIAL",
         "trade_name": "NATIONAL FINANCIAL",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "23442 SUSSEX HWY SPC 10",
@@ -2289,7 +2289,7 @@
         }
     },
     {
-        "buisiness_name": "SHORE FINANCE LLC",
+        "business_name": "SHORE FINANCE LLC",
         "trade_name": "SHORE FINANCE LLC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "22937 SUSSEX HWY",
@@ -2304,7 +2304,7 @@
         }
     },
     {
-        "buisiness_name": "EZ CASH OF DELAWARE INC",
+        "business_name": "EZ CASH OF DELAWARE INC",
         "trade_name": "EZ CASH OF DELAWARE INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "23439 SUSSEX HWY",
@@ -2319,7 +2319,7 @@
         }
     },
     {
-        "buisiness_name": "T F DOYLE INC",
+        "business_name": "T F DOYLE INC",
         "trade_name": "MILLENNIUM MOTORS",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "24703 SUSSEX HWY",
@@ -2334,7 +2334,7 @@
         }
     },
     {
-        "buisiness_name": "EZ LOANS INC",
+        "business_name": "EZ LOANS INC",
         "trade_name": "EZ LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "38394 DUPONT BLVD UNIT E",
@@ -2349,7 +2349,7 @@
         }
     },
     {
-        "buisiness_name": "NATIONAL FINANCIAL",
+        "business_name": "NATIONAL FINANCIAL",
         "trade_name": "LOAN TILL PAYDAY",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "38223 DUPONT BLVD",
@@ -2364,7 +2364,7 @@
         }
     },
     {
-        "buisiness_name": "HRB TAX GROUP INC",
+        "business_name": "HRB TAX GROUP INC",
         "trade_name": "H&R BLOCK",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "38445 DUPONT BLVD UNIT 3",
@@ -2379,7 +2379,7 @@
         }
     },
     {
-        "buisiness_name": "EZ CASH OF DELAWARE INC",
+        "business_name": "EZ CASH OF DELAWARE INC",
         "trade_name": "EZ CASH OF DELAWARE INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "234 E GLENWOOD AVE",
@@ -2394,7 +2394,7 @@
         }
     },
     {
-        "buisiness_name": "EZ LOANS INC",
+        "business_name": "EZ LOANS INC",
         "trade_name": "EZ LOANS INC",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "229 STADIUM ST",
@@ -2409,7 +2409,7 @@
         }
     },
     {
-        "buisiness_name": "EASTERN SPECIALTY FINANCE INC",
+        "business_name": "EASTERN SPECIALTY FINANCE INC",
         "trade_name": "CHECK-N-GO",
         "business_activity": "FINANCE OR SMALL LOAN AGENCY",
         "address_1": "599 JIMMY DR STE 14",

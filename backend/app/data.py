@@ -12,7 +12,7 @@ import typing as t
 @dataclasses.dataclass(unsafe_hash=True)
 class Business:
     id: int
-    buisiness_name: str
+    business_name: str
     trade_name: str
     business_activity: str
     address_1: str

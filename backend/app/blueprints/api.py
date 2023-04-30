@@ -46,7 +46,7 @@ def filter_request(businesses: list[Business]):
             score_cutoff=50,
         )
 
-        businesses = [b[2] for b in businesses]
+        businesses = (b[2] for b in businesses)
 
     zip = request.args.get("zip")
 
@@ -72,7 +72,5 @@ def filter_request(businesses: list[Business]):
             < miles,
             businesses,
         )
-
-        print(businesses)
 
     return [business.to_json() for business in businesses]

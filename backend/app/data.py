@@ -11,6 +11,7 @@ import typing as t
 
 @dataclasses.dataclass(unsafe_hash=True)
 class Business:
+    id: int
     buisiness_name: str
     trade_name: str
     business_activity: str
@@ -38,8 +39,8 @@ def load_data() -> list[Business]:
     with open("../data/delaware_business.json") as f:
         objs = json.load(f)
 
-        for buisiness in objs:
+        for num, buisiness in enumerate(objs):
             location = buisiness.pop("location")
-            out.append(Business(**buisiness, location=Location(**location)))
+            out.append(Business(**buisiness, id=num, location=Location(**location)))
 
     return out

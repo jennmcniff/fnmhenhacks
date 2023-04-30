@@ -8,7 +8,12 @@ blueprints.load_blueprints(app)
 
 
 @app.route("/")
-async def hello():
+async def index():
+    return await serve_file("index.html")
+
+
+@app.route("/<path:path>")
+async def anything(path: str):
     return await serve_file("index.html")
 
 
